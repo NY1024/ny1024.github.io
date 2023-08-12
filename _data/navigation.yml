@@ -7,8 +7,11 @@ main:
     url: /talk/    
 
   - title: "Service"
-    url: /service/    
-        
+    url: /service/ 
+    
+  - title: "Awards"
+    url: /awards/    
+    
   - title: "Blog Posts"
     url: /year-archive/
     
