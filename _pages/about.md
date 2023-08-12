@@ -17,40 +17,6 @@ Earlier, I finished my internship in Sangfor, advised by Principal Researcher Ka
 * Trustworthy Machine Learning (Safety, Privacy, and Security)
 * Cyberspace Security (Software security, Network security, IoT security and etc.)
 
-## Awards and Honors
-
-[04/2023] Pacemaker to Merit Student
-
-[04/2023] Merit Student
-
-[11/2022] National Scholarship
-
-[04/2022] Merit Student
-
-[12/2021] Cyber Security Expert of Winter Olympics 
-
-[04/2021] Merit Student
-
-[06/2019] Outstanding Graduate
-
-[11/2017] National Encouragement Scholarship
-
-[11/2016] National Encouragement Scholarship
-
-[06/2018] Bronze National Hackathon for College Students
-
-[05/2018] 1st Prize National Cybersecurity Technology Competition
-
-[05/2018] Champion  National College Hackathon
-
-[05/2018]  Runner-up Information Security Triathlon Northwest Division Finals
-
-[09/2017]  Third Prize Information Security Triathlon National Finals
-
-[07/2017]  Runner-up  Cisco Network Technology Challenge Northwest Division Finals
-
-
-
 
 ## Annocement
 I am always willing to work together on interesting projects with external collaborators. Drop me an email if you are interested!
