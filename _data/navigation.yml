@@ -13,5 +13,7 @@ main:
     url: /awards/    
     
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blog/
 
+  - title: "Misc."
+    url: /misc/
