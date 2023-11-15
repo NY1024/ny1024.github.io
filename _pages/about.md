@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year M.S. student in the School of Cyber Security at University of Chinese Academy of Sciences, advised by Dr. Bin Wu.  I am also the research assistant of the State Key Laboratory of Information Security.
+I am a first-year PhD student at State Key Laboratory of Software Development Environment at the Beihang University, advised by Prof. [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en). I also work closely with Prof. [Xianglong Liu](https://xlliu-beihang.github.io/) and Prof. [Aishan Liu](https://liuaishan.github.io/).
 
-Earlier, I finished my internship in Sangfor, advised by Principal Researcher Kai Li at SIP. Even before, I  got my  B.S. degree from LUT, advised by Tao Feng at Institute of Network and Information Security.
+Prior to BUAA, I obtained my M.S. degree from the School of Cyber Security, University of Chinese Academy of Sciences.  I was also the research assistant of the State Key Laboratory of Information Security. Before that, I finished my internship in Sangfor, advised by Principal Researcher Kai Li. Even before, I got my B.S. degree from LanZhou University of Technology, advised by Prof. [Tao Feng](https://jitong.lut.edu.cn/info/1308/10677.htm) at Institute of Network and Information Security.
 
 
 ## Research Interests
-* Trustworthy Machine Learning (Safety, Privacy, and Security)
+* Trustworthy Machine Learning (Safety, Privacy, Security and etc.)
 * Cyberspace Security (Software security, Network security, IoT security and etc.)
 
 
