@@ -22,9 +22,9 @@ Prior to BUAA, I obtained my M.S. degree from the School of Cyber Security, Univ
 I am always willing to work together on interesting projects with external collaborators. Drop me an email if you are interested!
 
 ## Contact
-**Email:** yingzonghao20[AT]mails[DOT]ucas[DOT]edu[DOT]cn / nyale1024[AT]gmail[DOT]com
+**Email:** yingzonghao20[AT]mails[DOT]ucas[DOT]edu[DOT]cn / yingzonghao[AT]buaa[DOT]edu[DOT]cn
 
-**Address:** No.19 Shucun Road, Beijing, China
+**Address:** No.37 Xueyuan Road, Haidian District, Beijing, China
 
 ## News and Updates
 
