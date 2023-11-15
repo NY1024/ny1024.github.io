@@ -6,6 +6,7 @@ redirect_from:
   - /service
 ---
 
+* Student Committee Member of the Information Retrieval Special Committee, Chinese Information Processing Society of China, since 10/2023
 * MITRE Adversarial Threat Landscape for Artificial-Intelligence Systems, Committer, 10/2021
 * HUAWEI Hardware Security Camp, Tutor, 03/2021
 * The first Trusted Hardware Security Competition of HUAWEI,Propositioner, 03/2021
