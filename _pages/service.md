@@ -8,7 +8,7 @@ redirect_from:
 
 * Reviewer of Journal of Experimental & Theoretical Artificial Intelligence
 * Member of OWASP(Open Web Application Security Project)
-* Member of (ISC)^2
+* Member of (ISC)<sup>2</sup>
 * Student Committee Member of the Information Retrieval Special Committee, Chinese Information Processing Society of China, since 10/2023
 * MITRE Adversarial Threat Landscape for Artificial-Intelligence Systems, Committer, 10/2021
 * HUAWEI Hardware Security Camp, Tutor, 03/2021
