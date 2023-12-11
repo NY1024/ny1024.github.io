@@ -9,6 +9,7 @@ redirect_from:
 * Reviewer of Journal of Experimental & Theoretical Artificial Intelligence
 * Member of CIPSC(Chinese Information Processing Society of China)
 * Student Member of CCF(China Computer Federation)
+* Student Member of CSIG(China Society of Image and Graphics)
 * Student Member of CACR(Chinese Association for Cryptologic Research)
 * Member of OWASP(Open Web Application Security Project)
 * Member of (ISC)<sup>2</sup>
