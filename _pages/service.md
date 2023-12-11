@@ -7,6 +7,9 @@ redirect_from:
 ---
 
 * Reviewer of Journal of Experimental & Theoretical Artificial Intelligence
+* Member of CIPSC(Chinese Information Processing Society of China)
+* Student Member of CCF(China Computer Federation)
+* Student Member of CACR(Chinese Association for Cryptologic Research)
 * Member of OWASP(Open Web Application Security Project)
 * Member of (ISC)<sup>2</sup>
 * Student Committee Member of the Information Retrieval Special Committee, Chinese Information Processing Society of China, since 10/2023
