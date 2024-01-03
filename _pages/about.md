@@ -25,6 +25,7 @@ I am always willing to work together on interesting projects with external colla
 **Address:** No.19 Shucun Road, Beijing, China
 
 ## News and Updates
+* 01/2024 I completed the translation of "AI for Cybersecurity: A Handbook of Use Cases"
 
 * 06/2023 I got master degree from Chinese Academy of Sciences.
   
