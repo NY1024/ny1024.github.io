@@ -6,7 +6,8 @@ redirect_from:
   - /publications
 author_profile: true
 ---
-
+## 2024
+[1] Zonhao Ying. [Chinese Edition of "AI for Cybersecurity: A Handbook of Use Cases"](https://elwood.gitbook.io/ai-for-cybersecurity)
 ## 2023
 [1] YING Zonghao, WU Bin. Backdoor Attack on Deep Learning Models:A Survey[J]. Computer Science, 2023, 50(3): 333-350.
 
