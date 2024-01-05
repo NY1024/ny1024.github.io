@@ -8,6 +8,8 @@ author_profile: true
 ---
 ## 2024
 [1] Zonhao Ying. [Chinese Edition of "AI for Cybersecurity: A Handbook of Use Cases"(Open Source)](https://elwood.gitbook.io/ai-for-cybersecurity)
+
+[2] Zonhao Ying. [Head First Cryptography(Open Source)](https://elwood.gitbook.io/head-first-cryptography/)
 ## 2023
 [1] YING Zonghao, WU Bin. Backdoor Attack on Deep Learning Models:A Survey[J]. Computer Science, 2023, 50(3): 333-350.
 
