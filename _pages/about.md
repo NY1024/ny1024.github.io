@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my M.S. degree from the School of Cyber Security, University of Chinese Academy of Sciences.  I was also the research assistant of the State Key Laboratory of Information Security. Before that, I finished my internship in Sangfor, advised by Principal Researcher Kai Li. Even before, I got my B.S. degree from LanZhou University of Technology, advised by Prof. Tao Feng at Institute of Network and Information Security.
+I obtained my M.Eng from the School of Cyber Security, University of Chinese Academy of Sciences.  I was also the research assistant of the State Key Laboratory of Information Security. Before that, I finished my internship in Sangfor, advised by Principal Researcher Kai Li. Even before, I got my B.Eng from LanZhou University of Technology, advised by Prof. Tao Feng at Institute of Network and Information Security.
 
 
 ## Research Interests
@@ -27,7 +27,7 @@ I am always willing to work together on interesting projects with external colla
 ## News and Updates
 * 01/2024 I completed the translation of "AI for Cybersecurity: A Handbook of Use Cases"
 
-* 06/2023 I got master degree from Chinese Academy of Sciences.
+* 06/2023 I obtained my M.Eng from Chinese Academy of Sciences.
   
 * 03/2023 One paper is accepted by **Cybersecurity**.
   
