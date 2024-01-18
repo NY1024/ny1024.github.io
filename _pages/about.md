@@ -41,5 +41,4 @@ I am always willing to work together on interesting projects with external colla
   
 * 02/2021 One paper is accepted by **IJCNN 2021**.
 
-
-[URL=https://info.flagcounter.com/lsh4][IMG]https://s01.flagcounter.com/map/lsh4/size_t/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/[/IMG][/URL]
+<a href="https://info.flagcounter.com/lsh4"><img src="https://s01.flagcounter.com/map/lsh4/size_t/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
