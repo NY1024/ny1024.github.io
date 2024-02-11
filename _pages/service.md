@@ -5,8 +5,9 @@ permalink: /service/
 redirect_from:
   - /service
 ---
+* Applied Artificial Intelligence, Reviewer
 * GPTSecurity, Contributor
-* Reviewer of Journal of Experimental & Theoretical Artificial Intelligence
+* Journal of Experimental & Theoretical Artificial Intelligence, Reviewer
 * Member of ZCF(Zhejiang Computer Federation), CIPSC(Chinese Information Processing Society of China)
 * Student Member of CCF(China Computer Federation), CSIG(China Society of Image and Graphics), CACR(Chinese Association for Cryptologic Research)
 * Member of OWASP(Open Web Application Security Project)
