@@ -5,6 +5,8 @@ permalink: /service/
 redirect_from:
   - /service
 ---
+* Global Journal of Computer Science and Technology, Reviewer
+* Cybernetics and Systems, Reviewer
 * Applied Artificial Intelligence, Reviewer
 * GPTSecurity, Contributor
 * Journal of Experimental & Theoretical Artificial Intelligence, Reviewer
