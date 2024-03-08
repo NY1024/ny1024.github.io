@@ -25,7 +25,7 @@ I am always willing to work together on interesting projects with external colla
 **Address:** No.19 Shucun Road, Beijing, China
 
 ## News and Updates
-* 02/2024 The open source book "Notes on Foundation Model Safety Research Paper" is published [online.](https://elwood.gitbook.io/foundation-model-sec/)
+* 02/2024 The open source book "Advances in Foundation Model Security" is published [online.](https://elwood.gitbook.io/foundation-model-sec/)
 
 * 01/2024 The open source book "Head First Cryptography" is published [online.](https://elwood.gitbook.io/head-first-cryptography/)
 
