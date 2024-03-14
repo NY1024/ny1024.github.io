@@ -29,3 +29,5 @@ To be done.
 
 [How to write a technical paper or a research paper](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html)
 
+## Advice for life
+[Superlinear Returns](https://paulgraham.com/superlinear.html)
