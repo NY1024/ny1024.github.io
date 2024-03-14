@@ -31,3 +31,4 @@ To be done.
 
 ## Advice for life
 [Superlinear Returns](https://paulgraham.com/superlinear.html)
+[How to Do Great Work](https://paulgraham.com/greatwork.html)
