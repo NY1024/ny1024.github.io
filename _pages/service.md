@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 ## Reviewer
+* The Computer Journal
 * Global Journal of Computer Science and Technology
 * Cybernetics and Systems
 * Applied Artificial Intelligence
