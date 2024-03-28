@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a PhD student at State Key Laboratory of Software Development Environment at the Beihang University(BUAA), advised by Prof. [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en) and Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). I also work closely with Prof. [Aishan Liu](https://liuaishan.github.io/).
 
-I obtained my M.Eng from the School of Cyber Security, University of Chinese Academy of Sciences.  I was also the research assistant of the State Key Laboratory of Information Security. Before that, I finished my internship in Sangfor, advised by Principal Researcher Kai Li. Even before, I got my B.Eng from LanZhou University of Technology, advised by Prof. Tao Feng at Institute of Network and Information Security.
+Prior to BUAA, I obtained my M.Eng from the School of Cyber Security, University of Chinese Academy of Sciences. I was also the research assistant of the State Key Laboratory of Information Security, Institue of Information Engineering, Chinese Academy of Sciences. Before that, I finished my internship in Sangfor, advised by Principal Researcher Kai Li. Even before, I got my B.Eng from LanZhou University of Technology, advised by Prof. Tao Feng at Institute of Network and Information Security.
 
 
 ## Research Interests
@@ -20,9 +21,9 @@ I obtained my M.Eng from the School of Cyber Security, University of Chinese Aca
 I am always willing to work together on interesting projects with external collaborators. Drop me an email if you are interested!
 
 ## Contact
-**Email:** yingzonghao20[AT]mails[DOT]ucas[DOT]edu[DOT]cn
+**Email:** yingzonghao20[AT]mails[DOT]ucas[DOT]edu[DOT]cn, yingzonghao[AT]buaa[DOT]edu[DOT]cn
 
-**Address:** No.19 Shucun Road, Beijing, China
+**Address:** No.37 Xueyuan Road, Beijing, China
 
 ## News and Updates
 * 02/2024 The open source book "Advances in Foundation Model Security" is published [online.](https://elwood.gitbook.io/foundation-model-sec/)
