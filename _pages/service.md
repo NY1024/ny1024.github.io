@@ -13,9 +13,11 @@ redirect_from:
 * Applied Artificial Intelligence
 * Journal of Experimental & Theoretical Artificial Intelligence
 
+
 ## Contributor
-* GPTSecurity
-* MITRE Adversarial Threat Landscape for Artificial-Intelligence Systems
+* GPTSecurity (Github Repository)
+* MITRE Adversarial Threat Landscape for Artificial-Intelligence Systems (Github Repository)
+* AI for Math Resources (Google Docs)
 
 ## Student Committee Member
 * Information Retrieval Special Committee, Chinese Information Processing Society of China, since 10/2023
