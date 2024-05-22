@@ -7,6 +7,11 @@ redirect_from:
 ---
 
 ## Reviewer
+### Conferences
+* ICML
+* NeurIPS
+* ECCV
+### Journals
 * The Computer Journal
 * Global Journal of Computer Science and Technology
 * Cybernetics and Systems
