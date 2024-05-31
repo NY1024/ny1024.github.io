@@ -11,6 +11,9 @@ redirect_from:
 * ICML
 * NeurIPS
 * ECCV
+* MM
+
+
 ### Journals
 * The Computer Journal
 * Global Journal of Computer Science and Technology
