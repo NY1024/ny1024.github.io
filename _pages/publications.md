@@ -12,6 +12,10 @@ author_profile: true
 [2] Zonhao Ying. [Head First Cryptography(Open Source)](https://elwood.gitbook.io/head-first-cryptography/)
 
 [3] Zonghao Ying. [Advances in Foundation Model Security](https://elwood.gitbook.io/foundation-model-sec/)
+
+[4] Zonghao Ying. et al. [Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt](https://arxiv.org/abs/2406.04031)
+
+[5] Zonghao Ying. et al. [Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks](https://arxiv.org/abs/2406.06302)([Chinese report](https://mp.weixin.qq.com/s/5fK3WyYnwMND8gXjWb-B2g))
 ## 2023
 [1] YING Zonghao, WU Bin. Backdoor Attack on Deep Learning Models:A Survey[J]. Computer Science, 2023, 50(3): 333-350.
 
