@@ -17,6 +17,7 @@ redirect_from:
 * Merit Student, Lanzhou University of Technology, 2016-2018
 
 ## Selected Awards
+* Runner-up, Gemma Hackathon 2024
 * Bronze, National Hackathon for College Students, 2018
 * 1st Prize, National Cybersecurity Technology Competition, 2018
 * Champion, National College Hackathon, 2018
