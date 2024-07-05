@@ -37,6 +37,7 @@ redirect_from:
 * Student Member of CCF(China Computer Federation), CSIG(China Society of Image and Graphics), CACR(Chinese Association for Cryptologic Research)
 
 ## Others
+* Beijing Cyber Security Association, Senior Lecturer in Cyberspace Security, 07/2024
 * HUAWEI Hardware Security Camp, Tutor, 03/2021
 * The first Trusted Hardware Security Competition of HUAWEI,Propositioner, 03/2021
 * Information Security Association of LUT, Vice President, 09/2016-09/2018
