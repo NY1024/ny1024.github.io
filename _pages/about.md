@@ -26,6 +26,8 @@ I am always willing to work together on interesting projects with external colla
 **Address:** No.37 Xueyuan Road, Beijing, China
 
 ## News and Updates
+* 07/2024 I was certified as a Senior Lecturer in Cybersecurity by Cyber Security Association of China.
+
 * 07/2024 We released 💥[Awesome-Trustworthy-GenAI](https://github.com/NY1024/Awesome-Trustworthy-GenAI)
 
 * 06/2024 "Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks" [arixv.]([https://elwood.gitbook.io/foundation-model-sec/](https://arxiv.org/abs/2406.06302))
