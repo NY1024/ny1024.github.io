@@ -29,6 +29,8 @@ To be done.
 
 [How to write a technical paper or a research paper](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html)
 
+[Handbook for PhD Students](https://agents.inf.ed.ac.uk/phd-handbook/)
+
 ## Advice for life
 [Superlinear Returns](https://paulgraham.com/superlinear.html)
 [How to Do Great Work](https://paulgraham.com/greatwork.html)
