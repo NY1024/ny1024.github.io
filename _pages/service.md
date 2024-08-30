@@ -22,6 +22,9 @@ redirect_from:
 * Applied Artificial Intelligence
 * Journal of Experimental & Theoretical Artificial Intelligence
 
+## Teachings
+* Spring, 2022. TA in Computer Network, instructed by Prof. Bin Wu. University of Chinese Academy of Sciences. Undergraduate Course.
+* Autumn, 2024. TA in Optimization Methods, instructed by Prof. Mei Yuan. Beihang University. Undergraduate Course.
 
 ## Contributor
 * GPTSecurity (Github Repository)
