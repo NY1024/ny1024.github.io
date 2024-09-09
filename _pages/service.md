@@ -13,6 +13,7 @@ redirect_from:
 * NeurIPS
 * ECCV
 * ACM MM
+* EMNLP 
 * CAC (China Automation Congress)
 
 
