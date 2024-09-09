@@ -13,6 +13,7 @@ redirect_from:
 * NeurIPS
 * ECCV
 * ACM MM
+* CAC (China Automation Congress)
 
 
 ### Journals
