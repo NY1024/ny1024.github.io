@@ -15,6 +15,7 @@ redirect_from:
 * ACM MM (2024)
 * EMNLP (2024)
 * AISTATS (2025)
+* ICWSM (2025)
 * CAC (China Automation Congress)(2024)
 
 
