@@ -16,6 +16,7 @@ redirect_from:
 * EMNLP (2024)
 * AISTATS (2025)
 * CHI (2025)
+* COLING (2025)
 * IUI (2025)
 * ICWSM (2025)
 * CAC (China Automation Congress)(2024)
