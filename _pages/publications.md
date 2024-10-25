@@ -7,17 +7,17 @@ redirect_from:
 author_profile: true
 ---
 ## 2024
-[1] Zonhao Ying. [Chinese Edition of "AI for Cybersecurity: A Handbook of Use Cases"(Open Source)](https://elwood.gitbook.io/ai-for-cybersecurity)
+[1] Zonhao Ying. [Chinese Edition of "AI for Cybersecurity: A Handbook of Use Cases"](https://elwood.gitbook.io/ai-for-cybersecurity)
 
-[2] Zonhao Ying. [Head First Cryptography(Open Source)](https://elwood.gitbook.io/head-first-cryptography/)
+[2] Zonhao Ying. [Head First Cryptography](https://elwood.gitbook.io/head-first-cryptography/)
 
 [3] Zonghao Ying. [Advances in Foundation Model Security](https://elwood.gitbook.io/foundation-model-sec/)
 
-[4] Zonghao Ying. et al. [Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt](https://arxiv.org/abs/2406.04031)
+[4] Zonghao Ying. et al. Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt.[Arixv](https://arxiv.org/abs/2406.04031)
 
-[5] Zonghao Ying. et al. [Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks](https://arxiv.org/abs/2406.06302)([Chinese report](https://mp.weixin.qq.com/s/5fK3WyYnwMND8gXjWb-B2g))
+[5] Zonghao Ying. et al. Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks. [Arixv](https://arxiv.org/abs/2406.06302)([Chinese report](https://mp.weixin.qq.com/s/5fK3WyYnwMND8gXjWb-B2g))
 
-[6] Zonghao Ying. et al. SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models
+[6] Zonghao Ying. et al. SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models. [Project page](https://safebench-mm.github.io/), [Arxiv](https://arxiv.org/abs/2410.18927).)
 ## 2023
 [1] YING Zonghao, WU Bin. Backdoor Attack on Deep Learning Models:A Survey[J]. Computer Science, 2023, 50(3): 333-350.
 
