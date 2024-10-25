@@ -26,7 +26,7 @@ I am always willing to work together on interesting projects with external colla
 **Address:** No.37 Xueyuan Road, Beijing, China
 
 ## News and Updates
-* 09/2024 📜"SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models". [Project page](https://safebench-mm.github.io/)
+* 09/2024 📜"SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models". [Project page](https://safebench-mm.github.io/), [Arxiv](https://arxiv.org/abs/2410.18927).
 
 * 07/2024 🤓I was certified as a Senior Lecturer in Cybersecurity by Cyber Security Association of China.
 
