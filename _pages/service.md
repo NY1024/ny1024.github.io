@@ -19,6 +19,7 @@ redirect_from:
 * COLING (2025)
 * IUI (2025)
 * ICWSM (2025)
+* HRI (2025)
 * CAC (China Automation Congress)(2024)
 
 
