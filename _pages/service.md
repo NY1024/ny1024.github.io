@@ -21,6 +21,7 @@ redirect_from:
 * ICWSM (2025)
 * HRI (2025)
 * CAC (China Automation Congress)(2024)
+* IJCNN (2025)
 
 
 ### Journals
