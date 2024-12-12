@@ -9,12 +9,13 @@ redirect_from:
 ## Reviewer
 ### Conferences
 * ICLR (2025)
-* ICML (2024)
+* ICML (2024, 2025)
 * NeurIPS (2024)
 * ECCV (2024)
 * ACM MM (2024)
 * EMNLP (2024)
 * AISTATS (2025)
+* ACL (2025)
 * CHI (2025)
 * COLING (2025)
 * IUI (2025)
@@ -34,11 +35,10 @@ redirect_from:
 ## Teachings
 * Spring, 2022. TA in Computer Network, instructed by Prof. Bin Wu. University of Chinese Academy of Sciences. Undergraduate Course.
 * Autumn, 2024. TA in Optimization Methods, instructed by Prof. Mei Yuan. Beihang University. Undergraduate Course.
-
+* Autumn, 2024. TA in Trustworthy Artificial Intelligence, instructed by Prof. Aishan Liu. Beihang University. Postgraduate Course.
 ## Contributor
 * GPTSecurity (Github Repository)
 * MITRE Adversarial Threat Landscape for Artificial-Intelligence Systems (Github Repository)
-* AI for Math Resources (Google Docs)
 
 ## Student Committee Member
 * Information Retrieval Special Committee, Chinese Information Processing Society of China, since 10/2023
