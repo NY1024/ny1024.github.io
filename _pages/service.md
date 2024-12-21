@@ -20,7 +20,7 @@ redirect_from:
 * CHI (2025)
 * COLING (2025)
 * IUI (2025)
-* ICWSM (2025)
+* ICWSM (2024, 2025)
 * HRI (2025)
 * CAC (China Automation Congress)(2024)
 * IJCNN (2025)
@@ -37,6 +37,8 @@ redirect_from:
 * Spring, 2022. TA in Computer Network, instructed by Prof. Bin Wu. University of Chinese Academy of Sciences. Undergraduate Course.
 * Autumn, 2024. TA in Optimization Methods, instructed by Prof. Mei Yuan. Beihang University. Undergraduate Course.
 * Autumn, 2024. TA in Trustworthy Artificial Intelligence, instructed by Prof. Aishan Liu. Beihang University. Postgraduate Course.
+
+
 ## Contributor
 * GPTSecurity (Github Repository)
 * MITRE Adversarial Threat Landscape for Artificial-Intelligence Systems (Github Repository)
