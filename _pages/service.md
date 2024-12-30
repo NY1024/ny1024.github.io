@@ -17,6 +17,7 @@ redirect_from:
 * AISTATS (2025)
 * ACL (2025)
 * WACV (2025)
+* IJCAI (2025)
 * AAAI (2025)
 * CHI (2025)
 * COLING (2025)
