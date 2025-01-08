@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a PhD student at State Key Laboratory of Software Development Environment at the Beihang University(BUAA), advised by Prof. [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en) and Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). I also work closely with Prof. [Aishan Liu](https://liuaishan.github.io/).
 
-Prior to BUAA, I obtained my M.Sc from the School of Cyber Security, University of Chinese Academy of Sciences. I was also the research assistant of the State Key Laboratory of Information Security, Institue of Information Engineering, Chinese Academy of Sciences. Before that, I finished my internship in Sangfor, advised by Principal Researcher Kai Li. Even before, I got my B.Sc from Lanzhou University of Technology, advised by Prof. Tao Feng at Institute of network and information security.
+Prior to BUAA, I obtained my M.Sc from the School of Cyber Security, University of Chinese Academy of Sciences. I was also the research assistant of the State Key Laboratory of Information Security, Institue of Information Engineering, Chinese Academy of Sciences. Before that, I finished my internship in Sangfor, advised by Principal Researcher Kai Li. Even before, I got my B.Sc from Lanzhou University of Technology, advised by Prof. Tao Feng at Institute of network and information security. I serve as a reviewer for the top conferences and journals such as NeurIPS, ICML, ICLR, AAAI, ACL, ICJAI, AISTATS, COLING, ECCV, EMNLP, etc.
 
 
 ## Research Interests
@@ -26,7 +26,7 @@ I am always willing to work together on interesting projects with external colla
 **Address:** No.37 Xueyuan Road, Beijing, China
 
 ## News and Updates
-* 11/2024 🥳 I won Champions both in Team Categoty and INDIVIDUAL Categoty, Singapore AI Safety Red Teaming Challenge.
+* 11/2024 🥳 I won champions both in Team Categoty and Individual Categoty, Singapore AI Safety Red Teaming Challenge.
   
 * 09/2024 📜"SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models". [Project page](https://safebench-mm.github.io/), [Arxiv](https://arxiv.org/abs/2410.18927).
 
