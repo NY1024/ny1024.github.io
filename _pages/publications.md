@@ -6,6 +6,9 @@ redirect_from:
   - /publications
 author_profile: true
 ---
+## 2025
+[1] Jing, Z., **Ying, Z.**, Wang, L., Liang, S., Liu, A., Liu, X., & Tao, D. (2025). CogMorph: Cognitive Morphing Attacks for Text-to-Image Models. arXiv preprint arXiv:2501.11815.
+
 ## 2024
 [1] Zonhao Ying. [Chinese Edition of "AI for Cybersecurity: A Handbook of Use Cases"](https://elwood.gitbook.io/ai-for-cybersecurity)
 
