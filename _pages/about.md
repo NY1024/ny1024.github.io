@@ -26,6 +26,8 @@ I am always willing to work together on interesting projects with external colla
 **Address:** No.37 Xueyuan Road, Beijing, China
 
 ## News and Updates
+* 01/2025 📜"CogMorph: Cognitive Morphing Attacks for Text-to-Image Models" [arixv.](https://arxiv.org/pdf/2501.11815)
+
 * 11/2024 🥳 I won champions both in Team Categoty and Individual Categoty, Singapore AI Safety Red Teaming Challenge.
   
 * 09/2024 📜"SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models". [Project page](https://safebench-mm.github.io/), [Arxiv](https://arxiv.org/abs/2410.18927).
@@ -36,9 +38,9 @@ I am always willing to work together on interesting projects with external colla
 
 * 07/2024 🥳We released 🤗[Awesome-Trustworthy-GenAI](https://github.com/NY1024/Awesome-Trustworthy-GenAI)🤗
 
-* 06/2024 📜"Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks" [arixv.]([https://elwood.gitbook.io/foundation-model-sec/](https://arxiv.org/abs/2406.06302))
+* 06/2024 📜"Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks" [arixv.](https://arxiv.org/abs/2406.06302)
 
-* 05/2024 📜"Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt" [arixv.]([https://elwood.gitbook.io/head-first-cryptography/](https://arxiv.org/abs/2406.04031))
+* 05/2024 📜"Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt" [arixv.](https://arxiv.org/abs/2406.04031)
 
 * 02/2024 📖The open source book "Advances in Foundation Model Security" is published [online.](https://elwood.gitbook.io/foundation-model-sec/)
 
