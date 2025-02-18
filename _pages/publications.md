@@ -7,6 +7,8 @@ redirect_from:
 author_profile: true
 ---
 ## 2025
+[2] Zonghao Ying. et al. Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models.[Arixv](https://arxiv.org/abs/2502.11054)
+
 [1] Jing, Z., **Ying, Z.**, Wang, L., Liang, S., Liu, A., Liu, X., & Tao, D. (2025). CogMorph: Cognitive Morphing Attacks for Text-to-Image Models. arXiv preprint arXiv:2501.11815.
 
 ## 2024
