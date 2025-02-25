@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a PhD student at State Key Laboratory of Software Development Environment at the Beihang University(BUAA), advised by Prof. [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en) and Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). I also work closely with Prof. [Aishan Liu](https://liuaishan.github.io/).
 
-Prior to BUAA, I obtained my M.Sc from the School of Cyber Security, University of Chinese Academy of Sciences. I was also the research assistant of the State Key Laboratory of Information Security, Institue of Information Engineering, Chinese Academy of Sciences. Before that, I finished my internship in Sangfor, advised by Principal Researcher Kai Li. Even before, I got my B.Sc from Lanzhou University of Technology, advised by Prof. Tao Feng at Institute of network and information security. I serve as a reviewer for the top conferences and journals such as NeurIPS, ICML, ICLR, AAAI, ACL, ICJAI, AISTATS, COLING, ECCV, EMNLP, COLM etc.
+Prior to BUAA, I obtained my M.Sc from the School of Cyber Security, University of Chinese Academy of Sciences. I was also the research assistant of the State Key Laboratory of Information Security, Institue of Information Engineering, Chinese Academy of Sciences. Before that, I finished my internship in Sangfor, advised by Principal Researcher Kai Li. Even before, I got my B.Sc from Lanzhou University of Technology, advised by Prof. Tao Feng at Institute of network and information security. I serve as a reviewer for the top conferences and journals such as NeurIPS, ICML, ICLR, AAAI, ACL, IJCAI, AISTATS, COLING, ECCV, EMNLP, COLM etc.
 
 
 ## Research Interests
@@ -26,13 +26,15 @@ I am always willing to work together on interesting projects with external colla
 **Address:** No.37 Xueyuan Road, Beijing, China
 
 ## News and Updates
-* 02/2025 📜"Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models" [arixv.](https://arxiv.org/pdf/2502.11054)
+* 02/2025 🤓 I serve as the Challenge Chair for the [5th Workshop of Adversarial Machine Learning on Computer Vision: Foundation Models + X on CVPR 2025](https://cvpr25-advml.github.io/). Please submit your papers and participate the challenge to win prizes!
 
-* 01/2025 📜"CogMorph: Cognitive Morphing Attacks for Text-to-Image Models" [arixv.](https://arxiv.org/pdf/2501.11815)
+* 02/2025 📜"Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models" [arxv.](https://arxiv.org/pdf/2502.11054)[Coverage](https://mp.weixin.qq.com/s/Pyr9RC3AKCgFfsPfPDZ5yw)
+i
+* 01/2025 📜"CogMorph: Cognitive Morphing Attacks for Text-to-Image Models" [arxiv.](https://arxiv.org/pdf/2501.11815)
 
 * 11/2024 🥳 I won champions both in Team Categoty and Individual Categoty, Singapore AI Safety Red Teaming Challenge.
   
-* 09/2024 📜"SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models". [Project page](https://safebench-mm.github.io/), [Arxiv](https://arxiv.org/abs/2410.18927).
+* 09/2024 📜"SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models". [Project page](https://safebench-mm.github.io/), [Arxiv](https://arxiv.org/abs/2410.18927).[Coverage](https://mp.weixin.qq.com/s/iCKACZVnWY4PTBD2GiXhxw)
 
 * 07/2024 🤓I was certified as a Senior Lecturer in Cybersecurity by Cyber Security Association of China.
 
@@ -40,9 +42,9 @@ I am always willing to work together on interesting projects with external colla
 
 * 07/2024 🥳We released 🤗[Awesome-Trustworthy-GenAI](https://github.com/NY1024/Awesome-Trustworthy-GenAI)🤗
 
-* 06/2024 📜"Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks" [arixv.](https://arxiv.org/abs/2406.06302)
+* 06/2024 📜"Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks" [arxiv.](https://arxiv.org/abs/2406.06302)[Coverage](https://mp.weixin.qq.com/s/5fK3WyYnwMND8gXjWb-B2g)
 
-* 05/2024 📜"Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt" [arixv.](https://arxiv.org/abs/2406.04031)
+* 05/2024 📜"Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt" [arxiv.](https://arxiv.org/abs/2406.04031)
 
 * 02/2024 📖The open source book "Advances in Foundation Model Security" is published [online.](https://elwood.gitbook.io/foundation-model-sec/)
 
