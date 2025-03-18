@@ -16,6 +16,7 @@ redirect_from:
 * ACM MM (2024)
 * EMNLP (2024)
 * AISTATS (2025)
+* CVPR (2025)
 * ACL (2025)
 * WACV (2025)
 * IJCAI (2025)
