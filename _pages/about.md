@@ -26,6 +26,8 @@ I am always willing to work together on interesting projects with external colla
 **Address:** No.37 Xueyuan Road, Beijing, China
 
 ## News and Updates
+* 03/2025 📜"Towards Understanding the Safety Boundaries of DeepSeek Models: Evaluation and Findings" [arxv.](https://arxiv.org/pdf/2503.15092)
+
 * 02/2025 🤓 I serve as the Challenge Chair for the [5th Workshop of Adversarial Machine Learning on Computer Vision: Foundation Models + X on CVPR 2025](https://cvpr25-advml.github.io/). Please submit your papers and participate the challenge to win prizes!
 
 * 02/2025 📜"Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models" [arxv.](https://arxiv.org/pdf/2502.11054)[Coverage](https://mp.weixin.qq.com/s/Pyr9RC3AKCgFfsPfPDZ5yw)
