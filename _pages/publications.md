@@ -7,6 +7,8 @@ redirect_from:
 author_profile: true
 ---
 ## 2025
+[3] Zonghao Ying. et al. Towards Understanding the Safety Boundaries of DeepSeek Models: Evaluation and Findings.[Arixv](https://arxiv.org/pdf/2503.15092)
+
 [2] Zonghao Ying. et al. Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models.[Arixv](https://arxiv.org/abs/2502.11054)
 
 [1] Jing, Z., **Ying, Z.**, Wang, L., Liang, S., Liu, A., Liu, X., & Tao, D. (2025). CogMorph: Cognitive Morphing Attacks for Text-to-Image Models. arXiv preprint arXiv:2501.11815.
