@@ -26,17 +26,19 @@ I am always willing to work together on interesting projects with external colla
 **Address:** No.37 Xueyuan Road, Beijing, China
 
 ## News and Updates
-* 03/2025 📜"Towards Understanding the Safety Boundaries of DeepSeek Models: Evaluation and Findings" [arxv.](https://arxiv.org/pdf/2503.15092)
+* 04/2025 📜"Manipulating Multimodal Agents via Cross-Modal Prompt Injection" [link.](https://arxiv.org/pdf/2504.14348)
+
+* 03/2025 📜"Towards Understanding the Safety Boundaries of DeepSeek Models: Evaluation and Findings" [link.](https://arxiv.org/pdf/2503.15092)
 
 * 02/2025 🤓 I serve as the Challenge Chair for the [5th Workshop of Adversarial Machine Learning on Computer Vision: Foundation Models + X on CVPR 2025](https://cvpr25-advml.github.io/). Please submit your papers and participate the challenge to win prizes!
 
-* 02/2025 📜"Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models" [arxv.](https://arxiv.org/pdf/2502.11054)[Coverage](https://mp.weixin.qq.com/s/Pyr9RC3AKCgFfsPfPDZ5yw)
+* 02/2025 📜"Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models" [link.](https://arxiv.org/pdf/2502.11054)[Coverage](https://mp.weixin.qq.com/s/Pyr9RC3AKCgFfsPfPDZ5yw)
 i
-* 01/2025 📜"CogMorph: Cognitive Morphing Attacks for Text-to-Image Models" [arxiv.](https://arxiv.org/pdf/2501.11815)
+* 01/2025 📜"CogMorph: Cognitive Morphing Attacks for Text-to-Image Models" [link.](https://arxiv.org/pdf/2501.11815)
 
 * 11/2024 🥳 I won champions both in Team Categoty and Individual Categoty, Singapore AI Safety Red Teaming Challenge.
   
-* 09/2024 📜"SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models". [Project page](https://safebench-mm.github.io/), [Arxiv](https://arxiv.org/abs/2410.18927).[Coverage](https://mp.weixin.qq.com/s/iCKACZVnWY4PTBD2GiXhxw)
+* 09/2024 📜"SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models". [Project page](https://safebench-mm.github.io/), [link.](https://arxiv.org/abs/2410.18927).[Coverage](https://mp.weixin.qq.com/s/iCKACZVnWY4PTBD2GiXhxw)
 
 * 07/2024 🤓I was certified as a Senior Lecturer in Cybersecurity by Cyber Security Association of China.
 
@@ -44,9 +46,9 @@ i
 
 * 07/2024 🥳We released 🤗[Awesome-Trustworthy-GenAI](https://github.com/NY1024/Awesome-Trustworthy-GenAI)🤗
 
-* 06/2024 📜"Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks" [arxiv.](https://arxiv.org/abs/2406.06302)[Coverage](https://mp.weixin.qq.com/s/5fK3WyYnwMND8gXjWb-B2g)
+* 06/2024 📜"Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks" [link.](https://arxiv.org/abs/2406.06302)[Coverage](https://mp.weixin.qq.com/s/5fK3WyYnwMND8gXjWb-B2g)
 
-* 05/2024 📜"Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt" [arxiv.](https://arxiv.org/abs/2406.04031)
+* 05/2024 📜"Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt" [link.](https://arxiv.org/abs/2406.04031)
 
 * 02/2024 📖The open source book "Advances in Foundation Model Security" is published [online.](https://elwood.gitbook.io/foundation-model-sec/)
 
