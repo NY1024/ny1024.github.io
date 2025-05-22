@@ -7,11 +7,13 @@ redirect_from:
 author_profile: true
 ---
 ## 2025
-[3] Zonghao Ying. et al. Towards Understanding the Safety Boundaries of DeepSeek Models: Evaluation and Findings.[Arixv](https://arxiv.org/pdf/2503.15092)
+[4] Wang, L., **Ying, Z.**, Zhang, T., Liang, S., Hu, S., Zhang, M., ... & Liu, X. (2025). Manipulating Multimodal Agents via Cross-Modal Prompt Injection. arXiv preprint arXiv:2504.14348.[Link](https://arxiv.org/abs/2504.14348)
 
-[2] Zonghao Ying. et al. Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models.[Arixv](https://arxiv.org/abs/2502.11054)
+[3] Zonghao Ying. et al. Towards Understanding the Safety Boundaries of DeepSeek Models: Evaluation and Findings.[Link](https://arxiv.org/pdf/2503.15092)
 
-[1] Jing, Z., **Ying, Z.**, Wang, L., Liang, S., Liu, A., Liu, X., & Tao, D. (2025). CogMorph: Cognitive Morphing Attacks for Text-to-Image Models. arXiv preprint arXiv:2501.11815.
+[2] Zonghao Ying. et al. Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models.[Link](https://arxiv.org/abs/2502.11054)
+
+[1] Jing, Z., **Ying, Z.**, Wang, L., Liang, S., Liu, A., Liu, X., & Tao, D. (2025). CogMorph: Cognitive Morphing Attacks for Text-to-Image Models. arXiv preprint arXiv:2501.11815.[Link](https://arxiv.org/pdf/2501.11815)
 
 ## 2024
 [1] Zonhao Ying. [Chinese Edition of "AI for Cybersecurity: A Handbook of Use Cases"](https://elwood.gitbook.io/ai-for-cybersecurity)
@@ -20,11 +22,11 @@ author_profile: true
 
 [3] Zonghao Ying. [Advances in Foundation Model Security](https://elwood.gitbook.io/foundation-model-sec/)
 
-[4] Zonghao Ying. et al. Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt.[Arixv](https://arxiv.org/abs/2406.04031)
+[4] Zonghao Ying. et al. Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt.[Link](https://arxiv.org/abs/2406.04031)
 
-[5] Zonghao Ying. et al. Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks. [Arixv](https://arxiv.org/abs/2406.06302)([Chinese report](https://mp.weixin.qq.com/s/5fK3WyYnwMND8gXjWb-B2g))
+[5] Zonghao Ying. et al. Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks. [Link](https://arxiv.org/abs/2406.06302)([Chinese](https://mp.weixin.qq.com/s/5fK3WyYnwMND8gXjWb-B2g))
 
-[6] Zonghao Ying. et al. SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models. [Project page](https://safebench-mm.github.io/), [Arxiv](https://arxiv.org/abs/2410.18927).)
+[6] Zonghao Ying. et al. SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models. [Project page](https://safebench-mm.github.io/), [Link](https://arxiv.org/abs/2410.18927).)
 ## 2023
 [1] YING Zonghao, WU Bin. Backdoor Attack on Deep Learning Models:A Survey[J]. Computer Science, 2023, 50(3): 333-350.
 
