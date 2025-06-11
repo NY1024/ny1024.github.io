@@ -41,7 +41,7 @@ redirect_from:
 * Spring, 2022. TA in Computer Network, instructed by Prof. Bin Wu. University of Chinese Academy of Sciences. Undergraduate Course.
 * Autumn, 2024. TA in Optimization Methods, instructed by Prof. Mei Yuan. Beihang University. Undergraduate Course.
 * Autumn, 2024. TA in Trustworthy Artificial Intelligence, instructed by Prof. Aishan Liu. Beihang University. Postgraduate Course.
-
+* Spring, 2025. TA in Trustworthy Artificial Intelligence, instructed by Prof. Aishan Liu. Beihang University. Undergraduate Course.
 
 ## Contributor
 * GPTSecurity (Github Repository)
