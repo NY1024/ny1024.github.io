@@ -26,6 +26,8 @@ I am always willing to work together on interesting projects with external colla
 **Address:** No.37 Xueyuan Road, Beijing, China
 
 ## News and Updates
+* 06/2025 🥳Two papers accepted by TIFS and ICML MAS.
+
 * 04/2025 📜"Manipulating Multimodal Agents via Cross-Modal Prompt Injection" [link.](https://arxiv.org/pdf/2504.14348)
 
 * 03/2025 📜"Towards Understanding the Safety Boundaries of DeepSeek Models: Evaluation and Findings" [link.](https://arxiv.org/pdf/2503.15092)
