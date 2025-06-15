@@ -28,7 +28,7 @@ I am always willing to work together on interesting projects with external colla
 ## News and Updates
 * 06/2025 🥳Two papers accepted by TIFS and ICML MAS.
 
-* 06/2025 🥳One papers accepted by Electronics.
+* 06/2025 🥳One paper accepted by Electronics.
 
 * 04/2025 📜"Manipulating Multimodal Agents via Cross-Modal Prompt Injection" [link.](https://arxiv.org/pdf/2504.14348)
 
