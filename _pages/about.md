@@ -41,7 +41,7 @@ I am always willing to work together on interesting projects with external colla
 * 02/2025 🤓 I serve as the Challenge Chair for the [5th Workshop of Adversarial Machine Learning on Computer Vision: Foundation Models + X on CVPR 2025](https://cvpr25-advml.github.io/). Please submit your papers and participate the challenge to win prizes!
 
 * 02/2025 📜"Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models" [link.](https://arxiv.org/pdf/2502.11054)[Coverage](https://mp.weixin.qq.com/s/Pyr9RC3AKCgFfsPfPDZ5yw)
-i
+
 * 01/2025 📜"CogMorph: Cognitive Morphing Attacks for Text-to-Image Models" [link.](https://arxiv.org/pdf/2501.11815)
 
 * 11/2024 🥳 I won champions both in Team Categoty and Individual Categoty, Singapore AI Safety Red Teaming Challenge.
