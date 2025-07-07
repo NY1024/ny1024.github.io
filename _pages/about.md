@@ -26,11 +26,13 @@ I am always willing to work together on interesting projects with external colla
 **Address:** No.37 Xueyuan Road, Beijing, China
 
 ## News and Updates
-* 03/2025 📜"Pushing the Limits of Safety: A Technical Report on the ATLAS Challenge 2025" [link.](https://arxiv.org/pdf/2506.12430)
+* 07/2025 🥳One first-authored papers accepted by ACM MM.
+  
+* 06/2025 📜"Pushing the Limits of Safety: A Technical Report on the ATLAS Challenge 2025" [link.](https://arxiv.org/pdf/2506.12430)
 
-* 06/2025 🥳Two papers accepted by TIFS and ICML MAS.
+* 06/2025 🥳Two first-authored papers accepted by TIFS and ICML MAS.
 
-* 06/2025 🥳One paper accepted by Electronics.
+* 06/2025 🥳One co-authored paper accepted by Electronics.
 
 * 04/2025 📜"Manipulating Multimodal Agents via Cross-Modal Prompt Injection" [link.](https://arxiv.org/pdf/2504.14348)
 
