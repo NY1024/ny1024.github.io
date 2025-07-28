@@ -20,7 +20,7 @@ redirect_from:
 * ACL (2025)
 * WACV (2025)
 * IJCAI (2025)
-* AAAI (2025)
+* AAAI (2025,2026)
 * CHI (2025)
 * COLING (2025)
 * IUI (2025)
@@ -32,6 +32,7 @@ redirect_from:
 
 ### Journals
 * The Computer Journal
+* Empirical Software Engineering
 * Global Journal of Computer Science and Technology
 * Cybernetics and Systems
 * Applied Artificial Intelligence
