@@ -14,7 +14,7 @@ redirect_from:
 * ECCV (2024)
 * COLM (2025)
 * ACM MM (2024, 2025)
-* EMNLP (2024)
+* EMNLP (2024, 2025)
 * AISTATS (2025)
 * CVPR (2025)
 * ACL (2025)
