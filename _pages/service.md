@@ -23,7 +23,7 @@ redirect_from:
 * AAAI (2025,2026)
 * CHI (2025)
 * COLING (2025)
-* IUI (2025)
+* IUI (2025, 2026)
 * ICWSM (2024, 2025, 2026)
 * HRI (2025)
 * CAC (China Automation Congress)(2024)
