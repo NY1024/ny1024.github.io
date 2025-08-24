@@ -26,9 +26,11 @@ I am always willing to work together on interesting projects with external colla
 **Address:** No.37 Xueyuan Road, Beijing, China
 
 ## News and Updates
+* 08/2025 🥳One first-authored paper accepted by EMNLP 2025 Findings.
+* 
 * 07/2025 🥳Our paper *AgentSafe* is awarded the Outstanding Paper Award in MAS@ICML 2025.
   
-* 07/2025 🥳One first-authored papers accepted by ACM MM.
+* 07/2025 🥳One first-authored paper accepted by ACM MM.
   
 * 06/2025 📜"Pushing the Limits of Safety: A Technical Report on the ATLAS Challenge 2025 (AdvML@CVPR 2025)" [link.](https://arxiv.org/pdf/2506.12430)
 
