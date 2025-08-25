@@ -15,7 +15,7 @@ redirect_from:
 * COLM (2025)
 * ACM MM (2024, 2025)
 * EMNLP (2024, 2025)
-* AISTATS (2025)
+* AISTATS (2025, 2026)
 * CVPR (2025)
 * ACL (2025)
 * WACV (2025)
@@ -25,9 +25,6 @@ redirect_from:
 * COLING (2025)
 * IUI (2025, 2026)
 * ICWSM (2024, 2025, 2026)
-* HRI (2025)
-* CAC (China Automation Congress)(2024)
-* IJCNN (2025)
 
 
 ### Journals
