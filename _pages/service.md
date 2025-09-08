@@ -40,6 +40,7 @@ redirect_from:
 * Autumn, 2024. TA in Optimization Methods, instructed by Prof. Mei Yuan. Beihang University. Undergraduate Course.
 * Autumn, 2024. TA in Trustworthy Artificial Intelligence, instructed by Prof. Aishan Liu. Beihang University. Postgraduate Course.
 * Spring, 2025. TA in Introduction to Artificial Intelligence Security, instructed by Prof. Yunhong Wang, Prof. Xianglong Liu, and Prof. Aishan Liu. Beihang University. Undergraduate Course.
+* * Autumn, 2025. TA in Machine Learning, instructed by Prof. Yue Deng. Beihang University. Undergraduate Course.
 
 ## Contributor
 * GPTSecurity (Github Repository)
