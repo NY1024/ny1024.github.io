@@ -27,7 +27,7 @@ I am always willing to work together on interesting projects with external colla
 
 ## News and Updates
 * 08/2025 🥳One co-authored paper accepted by NeurIPS 2025.
-* 
+  
 * 08/2025 🥳One first-authored paper accepted by EMNLP 2025 Findings.
   
 * 07/2025 🥳Our paper *AgentSafe* is awarded the Outstanding Paper Award in MAS@ICML 2025.
