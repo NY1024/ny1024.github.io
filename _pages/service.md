@@ -25,6 +25,7 @@ redirect_from:
 * COLING (2025)
 * IUI (2025, 2026)
 * ICWSM (2024, 2025, 2026)
+* ICASSP (2026)
 
 
 ### Journals
