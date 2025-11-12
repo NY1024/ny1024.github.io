@@ -16,10 +16,9 @@ redirect_from:
 * ACM MM (2024, 2025)
 * EMNLP (2024, 2025)
 * AISTATS (2025, 2026)
-* CVPR (2025)
+* CVPR (2025, 2026)
 * ACL (2025)
 * WACV (2025)
-* IJCAI (2025)
 * AAAI (2025,2026)
 * CHI (2025,2026)
 * COLING (2025)
@@ -37,6 +36,11 @@ redirect_from:
 * Applied Artificial Intelligence
 * Journal of Experimental & Theoretical Artificial Intelligence
 
+## PC
+### Conferences
+* IJCAI (2025)
+* WWW (2026)
+
 ## Teachings
 * Spring, 2022. TA in Computer Network, instructed by Prof. Bin Wu. University of Chinese Academy of Sciences. Undergraduate Course.
 * Autumn, 2024. TA in Optimization Methods, instructed by Prof. Mei Yuan. Beihang University. Undergraduate Course.
@@ -50,12 +54,6 @@ redirect_from:
 
 ## Student Committee Member
 * Information Retrieval Special Committee, Chinese Information Processing Society of China, since 10/2023
-
-## Member
-* OWASP(Open Web Application Security Project), (ISC)<sup>2</sup>, ZCF(Zhejiang Computer Federation), CIPSC(Chinese Information Processing Society of China)
-
-## Student Member
-* Student Member of CCF(China Computer Federation), CSIG(China Society of Image and Graphics), CACR(Chinese Association for Cryptologic Research)
 
 ## Others
 * Cyber Security Association of China, Senior Lecturer in Cyberspace Security, 07/2024
