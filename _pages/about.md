@@ -26,6 +26,8 @@ I am always willing to work together on interesting projects with external colla
 **Address:** No.37 Xueyuan Road, Beijing, China
 
 ## News and Updates
+* 11/2025 🥳One first-authored paper accepted by IJCV.
+
 * 08/2025 🥳One co-authored paper accepted by NeurIPS 2025.
   
 * 08/2025 🥳One first-authored paper accepted by EMNLP 2025 Findings.
