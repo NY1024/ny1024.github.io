@@ -26,21 +26,23 @@ I am always willing to work together on interesting projects with external colla
 **Address:** No.37 Xueyuan Road, Beijing, China
 
 ## News and Updates
-* 11/2025 🥳One first-authored paper accepted by IJCV.
+* 11/2025 🥳One corresponding-author paper accepted by PersonaNLP@NeurIPS 2025.
 
-* 08/2025 🥳One co-authored paper accepted by NeurIPS 2025.
+* 11/2025 🥳One first-author paper accepted by IJCV.
+
+* 08/2025 🥳One co-author paper accepted by NeurIPS 2025.
   
-* 08/2025 🥳One first-authored paper accepted by EMNLP 2025 Findings.
+* 08/2025 🥳One first-author paper accepted by EMNLP 2025 Findings.
   
 * 07/2025 🥳Our paper *AgentSafe* is awarded the Outstanding Paper Award in MAS@ICML 2025.
   
-* 07/2025 🥳One first-authored paper accepted by ACM MM 2025.
+* 07/2025 🥳One first-author paper accepted by ACM MM 2025.
   
 * 06/2025 📜"Pushing the Limits of Safety: A Technical Report on the ATLAS Challenge 2025 (AdvML@CVPR 2025)" [link.](https://arxiv.org/pdf/2506.12430)
 
-* 06/2025 🥳Two first-authored papers accepted by TIFS and MAS@ICML 2025.
+* 06/2025 🥳Two first-author papers accepted by TIFS and MAS@ICML 2025.
 
-* 06/2025 🥳One co-authored paper accepted by Electronics.
+* 06/2025 🥳One co-author paper accepted by Electronics.
 
 * 04/2025 📜"Manipulating Multimodal Agents via Cross-Modal Prompt Injection" [link.](https://arxiv.org/pdf/2504.14348)
 
