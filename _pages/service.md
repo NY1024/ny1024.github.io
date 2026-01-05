@@ -30,6 +30,7 @@ redirect_from:
 ### Journals
 * The Computer Journal
 * IEEE Transactions on Dependable and Secure Computing
+* IEEE Transactions on Information Forensics and Security
 * IEEE Transactions on Multimedia
 * Empirical Software Engineering
 * Global Journal of Computer Science and Technology
