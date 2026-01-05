@@ -26,6 +26,8 @@ I am always willing to work together on interesting projects with external colla
 **Address:** No.37 Xueyuan Road, Beijing, China
 
 ## News and Updates
+* 01/2026 🥳One co-author paper accepted by Transactions on Dependable and Secure Computing.
+
 * 11/2025 🥳One corresponding-author paper accepted by PersonaNLP@NeurIPS 2025.
 
 * 11/2025 🥳One first-author paper accepted by IJCV.
