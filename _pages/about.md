@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a PhD student at State Key Laboratory of Software Development Environment at the Beihang University (BUAA), advised by Prof. [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en) and Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). I also work closely with Prof. [Aishan Liu](https://liuaishan.github.io/).
 
-Prior to BUAA, I obtained my M.Sc from the School of Cyber Security, University of Chinese Academy of Sciences. I was also the research assistant of the State Key Laboratory of Information Security, Institue of Information Engineering, Chinese Academy of Sciences. Before that, I finished my internship in Sangfor, advised by Principal Researcher Kai Li. Even before, I got my B.Sc from Lanzhou University of Technology, advised by Prof. Tao Feng at Institute of network and information security. I serve as a reviewer for the top conferences and journals such as NeurIPS, ICML, ICLR, CVPR, AAAI, ACL, IJCAI, AISTATS, COLING, ECCV, EMNLP, COLM etc.
+Prior to BUAA, I obtained my M.Sc from the School of Cyber Security, University of Chinese Academy of Sciences. I was also the research assistant of the State Key Laboratory of Information Security, Institue of Information Engineering, Chinese Academy of Sciences. Before that, I finished my internship in Sangfor, advised by Principal Researcher Dr. Kai Li. I serve as a reviewer for the top conferences and journals such as NeurIPS, ICML, ICLR, TIFS, TDSC, CVPR, ACL, AISTATS, COLING, ECCV, EMNLP etc.
 
 
 ## Research Interests
@@ -26,6 +26,9 @@ I am always willing to work together on interesting projects with external colla
 **Address:** No.37 Xueyuan Road, Beijing, China
 
 ## News and Updates
+
+* 01/2026 🥳One co-author paper accepted by Neurocomputing.
+
 * 01/2026 🥳One co-author paper accepted by Transactions on Dependable and Secure Computing.
 
 * 11/2025 🥳One corresponding-author paper accepted by PersonaNLP@NeurIPS 2025.
