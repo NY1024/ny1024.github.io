@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a PhD student at State Key Laboratory of Software Development Environment at the Beihang University (BUAA), advised by Prof. [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en) and Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). I also work closely with Prof. [Aishan Liu](https://liuaishan.github.io/).
 
-Prior to BUAA, I obtained my M.Sc from the School of Cyber Security, University of Chinese Academy of Sciences. I was also the research assistant of the State Key Laboratory of Information Security, Institue of Information Engineering, Chinese Academy of Sciences. Before that, I finished my internship in Sangfor, advised by Principal Researcher Dr. Kai Li. I serve as a reviewer for the top conferences and journals such as NeurIPS, ICML, ICLR, TIFS, TDSC, CVPR, ACL, AISTATS, COLING, ECCV, EMNLP etc.
+Prior to BUAA, I obtained my M.Sc from the School of Cyber Security, University of Chinese Academy of Sciences. I was also the research assistant of the State Key Laboratory of Information Security, Institue of Information Engineering, Chinese Academy of Sciences. Before that, I finished my internship in SIP Lab@Sangfor, advised by Principal Researcher Dr. Kai Li. I serve as a reviewer for the top conferences and journals such as NeurIPS, ICML, ICLR, TIFS, TDSC, CVPR, ACL, AISTATS, COLING, ECCV, EMNLP etc.
 
 
 ## Research Interests
@@ -26,14 +26,15 @@ I am always willing to work together on interesting projects with external colla
 **Address:** No.37 Xueyuan Road, Beijing, China
 
 ## News and Updates
-
+* 01/2026 🥳One first-author paper accepted by ICASSP 2026.
+  
 * 01/2026 🥳One co-author paper accepted by Neurocomputing.
 
 * 01/2026 🥳One co-author paper accepted by Transactions on Dependable and Secure Computing.
 
 * 11/2025 🥳One corresponding-author paper accepted by PersonaNLP@NeurIPS 2025.
 
-* 11/2025 🥳One first-author paper accepted by IJCV.
+* 11/2025 🥳One first-author paper accepted by International Journal of Computer Vision.
 
 * 08/2025 🥳One co-author paper accepted by NeurIPS 2025.
   
@@ -45,39 +46,23 @@ I am always willing to work together on interesting projects with external colla
   
 * 06/2025 📜"Pushing the Limits of Safety: A Technical Report on the ATLAS Challenge 2025 (AdvML@CVPR 2025)" [link.](https://arxiv.org/pdf/2506.12430)
 
-* 06/2025 🥳Two first-author papers accepted by TIFS and MAS@ICML 2025.
+* 06/2025 🥳Two first-author papers accepted by IEEE Transactions on Information Forensics and Security and MAS@ICML 2025.
 
 * 06/2025 🥳One co-author paper accepted by Electronics.
-
-* 04/2025 📜"Manipulating Multimodal Agents via Cross-Modal Prompt Injection" [link.](https://arxiv.org/pdf/2504.14348)
 
 * 03/2025 📜"Towards Understanding the Safety Boundaries of DeepSeek Models: Evaluation and Findings" [link.](https://arxiv.org/pdf/2503.15092)
 
 * 02/2025 🤓 I serve as the Challenge Chair for the [5th Workshop of Adversarial Machine Learning on Computer Vision: Foundation Models + X on CVPR 2025](https://cvpr25-advml.github.io/). Please submit your papers and participate the challenge to win prizes!
 
-* 02/2025 📜"Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models" [link.](https://arxiv.org/pdf/2502.11054)[Coverage](https://mp.weixin.qq.com/s/Pyr9RC3AKCgFfsPfPDZ5yw)
-
-* 01/2025 📜"CogMorph: Cognitive Morphing Attacks for Text-to-Image Models" [link.](https://arxiv.org/pdf/2501.11815)
-
 * 11/2024 🥳 I won champions both in Team Categoty and Individual Categoty, Singapore AI Safety Red Teaming Challenge.
   
-* 09/2024 📜"SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models". [Project page](https://safebench-mm.github.io/), [link.](https://arxiv.org/abs/2410.18927).[Coverage](https://mp.weixin.qq.com/s/iCKACZVnWY4PTBD2GiXhxw)
-
 * 07/2024 🤓I was certified as a Senior Lecturer in Cybersecurity by Cyber Security Association of China.
 
 * 07/2024 🤓I won second prize in the Google Gemma Hackathon!
 
-* 07/2024 🥳We released 🤗[Awesome-Trustworthy-GenAI](https://github.com/NY1024/Awesome-Trustworthy-GenAI)🤗
-
 * 06/2024 📜"Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks" [link.](https://arxiv.org/abs/2406.06302)[Coverage](https://mp.weixin.qq.com/s/5fK3WyYnwMND8gXjWb-B2g)
 
 * 05/2024 📜"Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt" [link.](https://arxiv.org/abs/2406.04031)
-
-* 02/2024 📖The open source book "Advances in Foundation Model Security" is published [online.](https://elwood.gitbook.io/foundation-model-sec/)
-
-* 01/2024 📖The open source book "Head First Cryptography" is published [online.](https://elwood.gitbook.io/head-first-cryptography/)
-
-* 01/2024 📖Chinese edition of "AI for Cybersecurity: A Handbook of Use Cases" is published [online.](https://elwood.gitbook.io/ai-for-cybersecurity)
 
 * 06/2023 🎉I obtained my M.Sc from Chinese Academy of Sciences.🎉
   
