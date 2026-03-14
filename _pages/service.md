@@ -33,7 +33,7 @@ redirect_from:
 * IEEE Transactions on Information Forensics and Security
 * IEEE Transactions on Multimedia
 * Empirical Software Engineering
-* Global Journal of Computer Science and Technology
+* International Journal of Human-Computer Interaction
 * Cybernetics and Systems
 * Applied Artificial Intelligence
 * Journal of Experimental & Theoretical Artificial Intelligence
