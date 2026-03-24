@@ -10,9 +10,9 @@ redirect_from:
 ### Conferences
 * ICLR (2025, 2026)
 * ICML (2024, 2025, 2026)
-* NeurIPS (2024, 2025)
+* NeurIPS (2024, 2025, 2026)
 * ECCV (2024)
-* COLM (2025)
+* COLM (2025, 2026)
 * ACM MM (2024, 2025, 2026)
 * EMNLP (2024, 2025)
 * AISTATS (2025, 2026)
