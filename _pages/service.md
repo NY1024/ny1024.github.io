@@ -36,7 +36,7 @@ redirect_from:
 * International Journal of Human-Computer Interaction
 * Cybernetics and Systems
 * Applied Artificial Intelligence
-* Journal of Experimental & Theoretical Artificial Intelligence
+* IEEE Transactions on Artificial Intelligence
 
 ## PC
 ### Conferences
