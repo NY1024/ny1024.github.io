@@ -26,6 +26,8 @@ I am always willing to work together on interesting projects with external colla
 **Address:** No.37 Xueyuan Road, Beijing, China
 
 ## News and Updates
+* 04/2026 🥳A first-author paper and two co-author papers have been accepted by ACL 2026.
+
 * 02/2026 🥳One first-author paper accepted by CVPR 2026.
 
 * 01/2026 🥳One first-author paper accepted by ICASSP 2026.
