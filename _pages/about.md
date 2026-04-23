@@ -11,7 +11,7 @@ I am a PhD student at State Key Laboratory of Complex and Critical Software Envi
 
 Prior to BUAA, I obtained my M.Sc. from the School of Cyber Security, University of Chinese Academy of Sciences. I also served as a research assistant at the State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences. Before that, I had internship experience at SIP Lab@Sangfor and Security Research Labs@Qihoo 360. I serve as a reviewer for top-tier conferences and journals, including NeurIPS, ICML, ICLR, TIFS, TDSC, CVPR, ACL, AISTATS, COLING, ECCV, and EMNLP.
 
-<span style="color:red">**[New]**</span> I have been selected for the 2026 Tencent Rhino-Bird Research Elite Program. I will be working as a research intern at Tencent Zhuque Lab on the topic of AI Agent Security.
+<strong><span style="color:#d73a49">[New]</span></strong> I have been selected for the 2026 Tencent Rhino-Bird Research Elite Program. I will be working as a research intern at Tencent Zhuque Lab on the topic of AI Agent Security.
 
 ## Research Interests
 * Trustworthy Machine Learning (Safety, Privacy, Security and etc.)
