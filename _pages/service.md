@@ -33,6 +33,7 @@ redirect_from:
 * IEEE Transactions on Information Forensics and Security
 * IEEE Transactions on Multimedia
 * Empirical Software Engineering
+* CyberSecurity
 * International Journal of Human-Computer Interaction
 * Cybernetics and Systems
 * Applied Artificial Intelligence
