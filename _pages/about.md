@@ -19,7 +19,7 @@ Prior to BUAA, I obtained my M.Sc. from the School of Cyber Security, University
 
 
 ## Annocement
-I am always willing to work together on interesting projects with external collaborators. Drop me an email if you are interested!
+If you are seeking any form of academic cooperation, please feel free to contact me.
 
 ## Contact
 **Email:** yingzonghao20[AT]mails[DOT]ucas[DOT]edu[DOT]cn, yingzonghao[AT]buaa[DOT]edu[DOT]cn
