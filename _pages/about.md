@@ -27,7 +27,9 @@ If you are seeking any form of academic cooperation, please feel free to contact
 **Address:** No.37 Xueyuan Road, Beijing, China
 
 ## News and Updates
-* 02/2026 🥳One first-author paper accepted by ICML 2026.
+* 05/2026 🥳Our paper *RoboSafe* is awarded the Outstanding Paper Award in ESR@ICLR 2026.
+
+* 05/2026 🥳One first-author paper accepted by ICML 2026.
 
 * 04/2026 🥳A first-author paper and two co-author papers have been accepted by ACL 2026.
 
