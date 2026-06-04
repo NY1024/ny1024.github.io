@@ -28,6 +28,7 @@ redirect_from:
 
 
 ### Journals
+* ACM Computing Surveys
 * The Computer Journal
 * IEEE Transactions on Dependable and Secure Computing
 * IEEE Transactions on Information Forensics and Security
