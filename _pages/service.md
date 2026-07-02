@@ -36,6 +36,7 @@ redirect_from:
     <ul class="service-list">
       <li>ACM Computing Surveys</li>
       <li>The Computer Journal</li>
+      <li>Transactions on Pattern Analysis and Machine Intelligence</li>
       <li>IEEE Transactions on Dependable and Secure Computing</li>
       <li>IEEE Transactions on Information Forensics and Security</li>
       <li>IEEE Transactions on Multimedia</li>
