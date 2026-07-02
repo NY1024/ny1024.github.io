@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at State Key Laboratory of Complex and Critical Software Environment at the Beihang University (BUAA), advised by Prof. <a href="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en" target="_blank">Dacheng Tao</a> and Prof. <a href="https://xlliu-beihang.github.io/" target="_blank">Xianglong Liu</a>. I also work closely with Prof. <a href="https://liuaishan.github.io/" target="_blank">Aishan Liu</a>.
 
-Prior to BUAA, I obtained my M.Sc. from the School of Cyber Security, University of Chinese Academy of Sciences. I also served as a research assistant at the State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences. Before that, I had internship experience at SIP Lab@Sangfor and Security Research Labs@Qihoo 360. I serve as a reviewer for top-tier conferences and journals, including NeurIPS, ICML, ICLR, TIFS, TDSC, CVPR, ACL, AISTATS, COLING, ECCV, and EMNLP.
+Prior to BUAA, I obtained my M.Sc. from the School of Cyber Security, University of Chinese Academy of Sciences. I also served as a research assistant at the State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences. Before that, I had internship experience at SIP Lab@Sangfor and Security Research Labs@Qihoo 360. I serve as a reviewer for top-tier conferences and journals, including TPAMI, NeurIPS, ICML, ICLR, TIFS, TDSC, CVPR, ACL, AISTATS, COLING, ECCV, and EMNLP.
 
 <span class="news-badge">New</span> I have been selected for the 2026 Tencent Rhino-Bird Research Elite Program (犀牛鸟精英人才计划) & Tencent PROJECT UP Talent Program (腾讯青云计划).
 
