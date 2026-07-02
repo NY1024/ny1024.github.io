@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at State Key Laboratory of Complex and Critical Software Environment at the Beihang University (BUAA), advised by Prof. [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en) and Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). I also work closely with Prof. [Aishan Liu](https://liuaishan.github.io/).
+I am a PhD student at State Key Laboratory of Complex and Critical Software Environment at the Beihang University (BUAA), advised by Prof. <a href="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en" target="_blank">Dacheng Tao</a> and Prof. <a href="https://xlliu-beihang.github.io/" target="_blank">Xianglong Liu</a>. I also work closely with Prof. <a href="https://liuaishan.github.io/" target="_blank">Aishan Liu</a>.
 
 Prior to BUAA, I obtained my M.Sc. from the School of Cyber Security, University of Chinese Academy of Sciences. I also served as a research assistant at the State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences. Before that, I had internship experience at SIP Lab@Sangfor and Security Research Labs@Qihoo 360. I serve as a reviewer for top-tier conferences and journals, including NeurIPS, ICML, ICLR, TIFS, TDSC, CVPR, ACL, AISTATS, COLING, ECCV, and EMNLP.
 
@@ -58,22 +58,22 @@ Prior to BUAA, I obtained my M.Sc. from the School of Cyber Security, University
 <div class="news-column">
 <h3 class="news-column-title">📝 Preprints</h3>
 <ul class="news-list">
-  <li>05/2026 "TrajShield: Trajectory-Level Safety Mediation for Defending Text-to-Video Models Against Jailbreak Attacks" [link.](https://arxiv.org/abs/2605.01761)</li>
-  <li>04/2026 "AgentVisor: Defending LLM Agents Against Prompt Injection via Semantic Virtualization" [link.](https://arxiv.org/abs/2604.24118)</li>
-  <li>06/2025 "Pushing the Limits of Safety: A Technical Report on the ATLAS Challenge 2025 (AdvML@CVPR 2025)" [link.](https://arxiv.org/pdf/2506.12430)</li>
-  <li>03/2025 "Towards Understanding the Safety Boundaries of DeepSeek Models: Evaluation and Findings" [link.](https://arxiv.org/pdf/2503.15092)</li>
-  <li>05/2024 "Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt" [link.](https://arxiv.org/abs/2406.04031)</li>
+  <li>05/2026 "TrajShield: Trajectory-Level Safety Mediation for Defending Text-to-Video Models Against Jailbreak Attacks" <a href="https://arxiv.org/abs/2605.01761" target="_blank" class="news-link">arXiv</a></li>
+  <li>04/2026 "AgentVisor: Defending LLM Agents Against Prompt Injection via Semantic Virtualization" <a href="https://arxiv.org/abs/2604.24118" target="_blank" class="news-link">arXiv</a></li>
+  <li>06/2025 "Pushing the Limits of Safety: A Technical Report on the ATLAS Challenge 2025 (AdvML@CVPR 2025)" <a href="https://arxiv.org/pdf/2506.12430" target="_blank" class="news-link">arXiv</a></li>
+  <li>03/2025 "Towards Understanding the Safety Boundaries of DeepSeek Models: Evaluation and Findings" <a href="https://arxiv.org/pdf/2503.15092" target="_blank" class="news-link">arXiv</a></li>
 </ul>
 </div>
 
 <div class="news-column">
 <h3 class="news-column-title">🏆 Tech Reports &amp; Works</h3>
 <ul class="news-list">
-  <li>06/2026 "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming" [link.](https://arxiv.org/abs/2606.31227)</li>
-  <li>[AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard): A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.</li>
-  <li>[pikit](https://github.com/NY1024/pikit): A composable toolbox of classic prompt-injection attacks, defenses, and indirect-injection channels.</li>
-  <li>06/2024 "Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks" [link.](https://arxiv.org/abs/2406.06302) [Coverage](https://mp.weixin.qq.com/s/5fK3WyYnwMND8gXjWb-B2g)</li>
-  <li>02/2025 I serve as the Challenge Chair for the [5th Workshop of Adversarial Machine Learning on Computer Vision: Foundation Models + X on CVPR 2025](https://cvpr25-advml.github.io/). Please submit your papers and participate the challenge to win prizes!</li>
+  <li>06/2026 "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming" <a href="https://arxiv.org/abs/2606.31227" target="_blank" class="news-link">arXiv</a></li>
+  <li>AI-Infra-Guard: A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation. <a href="https://github.com/Tencent/AI-Infra-Guard" target="_blank" class="news-link news-link-github">GitHub</a></li>
+  <li>ClawGuard: A security toolkit designed to mitigate risks associated with autonomous agents (e.g., OpenClaw), featuring Auditor (pre-installation audit), Checker (configuration check), and Detect (runtime monitoring) modules. <a href="https://github.com/NY1024/ClawGuard/tree/master" target="_blank" class="news-link news-link-github">GitHub</a></li>
+  <li>pikit: A composable toolbox of classic prompt-injection attacks, defenses, and indirect-injection channels. <a href="https://github.com/NY1024/pikit" target="_blank" class="news-link news-link-github">GitHub</a></li>
+  <li>06/2024 "Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks" <a href="https://arxiv.org/abs/2406.06302" target="_blank" class="news-link">arXiv</a> <a href="https://mp.weixin.qq.com/s/5fK3WyYnwMND8gXjWb-B2g" target="_blank" class="news-link news-link-coverage">Coverage</a></li>
+  <li>02/2025 I serve as the Challenge Chair for the <a href="https://cvpr25-advml.github.io/" target="_blank">5th Workshop of Adversarial Machine Learning on Computer Vision: Foundation Models + X on CVPR 2025</a>. Please submit your papers and participate the challenge to win prizes!</li>
   <li>11/2024 I won champions both in Team Category and Individual Category, Singapore AI Safety Red Teaming Challenge.</li>
   <li>07/2024 I was certified as a Senior Lecturer in Cybersecurity by Cyber Security Association of China.</li>
   <li>07/2024 I won second prize in the Google Gemma Hackathon!</li>
@@ -83,6 +83,8 @@ Prior to BUAA, I obtained my M.Sc. from the School of Cyber Security, University
 
 </div>
 
-<a href="https://info.flagcounter.com/ucN2" style="display: block; text-align: center;">
-  <img src="https://s01.flagcounter.com/map/ucN2/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0" style="display: inline-block;">
-</a>
+<div class="visitor-map">
+  <a href="https://info.flagcounter.com/ucN2" target="_blank">
+    <img src="https://s01.flagcounter.com/map/ucN2/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Visitor Map" border="0">
+  </a>
+</div>

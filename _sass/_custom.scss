@@ -582,4 +582,88 @@
   font-weight: 700;
 }
 
+/* ==========================================================================
+   News link tags
+   ========================================================================== */
+
+.news-link {
+  display: inline-block;
+  padding: 1px 7px;
+  font-size: 0.78em;
+  font-weight: 600;
+  color: #2b6cb0;
+  background: #ebf8ff;
+  border: 1px solid #bee3f8;
+  border-radius: 4px;
+  text-decoration: none;
+  margin-left: 0.3em;
+  transition: background 0.15s ease, color 0.15s ease;
+
+  &:hover {
+    background: #2b6cb0;
+    color: #fff;
+    text-decoration: none;
+  }
+}
+
+.news-link-coverage {
+  color: #9c4221;
+  background: #fffaf0;
+  border-color: #fbd38d;
+
+  &:hover {
+    background: #dd6b20;
+    color: #fff;
+  }
+}
+
+.news-link-github {
+  color: #1a202c;
+  background: #edf2f7;
+  border-color: #cbd5e0;
+
+  &:hover {
+    background: #1a202c;
+    color: #fff;
+  }
+}
+
+/* ==========================================================================
+   Visitor map
+   ========================================================================== */
+
+.visitor-map {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2em auto 1em auto;
+  padding: 1em 1.2em;
+  max-width: 340px;
+  background: rgba(237, 242, 247, 0.6);
+  border: 1px solid #cbd5e0;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+  }
+
+  a {
+    display: inline-block;
+    line-height: 0;
+  }
+
+  img {
+    border-radius: 8px;
+    opacity: 0.9;
+    transition: opacity 0.2s ease;
+  }
+
+  a:hover img {
+    opacity: 1;
+  }
+}
+
 
