@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
+# When you want to use a different Jekyll version, change the below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
 #     bundle exec jekyll serve
@@ -25,3 +25,11 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+# stdlib gems removed in Ruby 3.4+
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+
+# webrick removed from stdlib in Ruby 3.0+
+gem "webrick", "~> 1.8"

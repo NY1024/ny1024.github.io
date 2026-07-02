@@ -13,7 +13,10 @@ body {
   padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  font-size: #{$doc-font-size}px;
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -22,35 +25,42 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 2em 0 0.5em;
-  line-height: 1.2;
+  margin: 1.8em 0 0.6em;
+  line-height: 1.3;
   font-family: $header-font-family;
-  font-weight: bold;
+  font-weight: 700;
+  color: #1a202c;
 }
 
 h1 {
   margin-top: 0;
   font-size: $type-size-3;
+  font-weight: 800;
 }
 
 h2 {
   font-size: $type-size-4;
+  font-weight: 700;
 }
 
 h3 {
   font-size: $type-size-5;
+  font-weight: 700;
 }
 
 h4 {
   font-size: $type-size-6;
+  font-weight: 600;
 }
 
 h5 {
   font-size: $type-size-6;
+  font-weight: 600;
 }
 
 h6 {
   font-size: $type-size-6;
+  font-weight: 600;
 }
 
 small, .small {
@@ -58,7 +68,7 @@ small, .small {
 }
 
 p {
-  margin-bottom: 1.3em;
+  margin-bottom: 1.5em;
 }
 
 u,
@@ -94,10 +104,11 @@ abbr[data-original-title] {
 
 blockquote {
   margin: 2em 1em 2em 0;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding: 0.5em 1.5em;
   font-style: italic;
   border-left: 0.25em solid $primary-color;
+  background: #f7fafc;
+  border-radius: 0 4px 4px 0;
 
   cite {
     font-style: italic;
@@ -137,13 +148,12 @@ a > code,
 li > code,
 figcaption > code,
 td > code {
-  padding-top: 0.1rem;
-  padding-bottom: 0.1rem;
-  font-size: $type-size-6;
-  background: $code-background-color;
-  border: 1px solid $lighter-gray;
-  border-radius: $border-radius;
-  box-shadow: $box-shadow;
+  padding: 0.15rem 0.35rem;
+  font-size: 0.85em;
+  background: #edf2f7;
+  border: 1px solid #e2e8f0;
+  border-radius: 4px;
+  box-shadow: none;
 
   &:before, &:after {
     letter-spacing: -0.2em;
