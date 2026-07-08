@@ -31,4 +31,10 @@ redirect_from:
     <a href="https://ny1024.github.io/AgentSafety-Papers/" target="_blank" class="news-link news-link-github">Project</a>
     <a href="https://github.com/NY1024/AgentSafety-Papers" target="_blank" class="news-link news-link-github">GitHub</a>
   </div>
+  <div class="project-card">
+    <h4>📡 SecAI_Radar</h4>
+    <p>Tracking AI security papers from top-tier AI &amp; security conferences (CCF-A and above), filtered by keywords.</p>
+    <a href="https://ny1024.github.io/SecAI_Radar/" target="_blank" class="news-link news-link-github">Project</a>
+    <a href="https://github.com/NY1024/SecAI_Radar" target="_blank" class="news-link news-link-github">GitHub</a>
+  </div>
 </div>
