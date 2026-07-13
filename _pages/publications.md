@@ -16,87 +16,6 @@ author_profile: true
 <div class="pub-item">
   <div class="pub-number">[1]</div>
   <div class="pub-body">
-    <div class="pub-title">SafeHarbor: Hierarchical Memory-Augmented Guardrail for LLM Agent Safety</div>
-    <div class="pub-authors">Z Liu, <span class="pub-me">Z Ying</span>, W Zhang, Q Zou, D Zhang, D Yang, X Zhang, H Peng</div>
-    <div class="pub-venue"><span class="pub-tag pub-tag-conference">ICML 2026</span></div>
-  </div>
-</div>
-
-<div class="pub-item">
-  <div class="pub-number">[2]</div>
-  <div class="pub-body">
-    <div class="pub-title">DMN: A Compositional Framework for Jailbreaking Multimodal LLMs with Multi-Image Inputs</div>
-    <div class="pub-authors">W Xu, Z Wei, <span class="pub-me">Z Ying</span>, D Zhang, D Yang, X Zhang, Q Zou</div>
-    <div class="pub-venue"><span class="pub-tag pub-tag-conference">ACL 2026</span></div>
-  </div>
-</div>
-
-<div class="pub-item">
-  <div class="pub-number">[3]</div>
-  <div class="pub-body">
-    <div class="pub-title">AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions</div>
-    <div class="pub-authors"><span class="pub-me">Z Ying</span>, L Wang, A Liu, J Mu, J Guo, J Wang, Y Ma, S Liang, M Zhang, ...</div>
-    <div class="pub-venue"><span class="pub-tag pub-tag-conference">CVPR 2026</span> <span class="pub-tag pub-tag-award">🏆 Outstanding Paper Award</span></div>
-  </div>
-</div>
-
-<div class="pub-item">
-  <div class="pub-number">[4]</div>
-  <div class="pub-body">
-    <div class="pub-title">SecureWebArena: A Holistic Security Evaluation Benchmark for LVLM-based Web Agents</div>
-    <div class="pub-authors"><span class="pub-me">Z Ying</span>, Y Shao, J Gan, G Xu, J Shen, W Zhang, Q Zou, J Shi, Z Yin, ...</div>
-    <div class="pub-venue"><span class="pub-tag pub-tag-conference">ACL 2026 Findings</span></div>
-  </div>
-</div>
-
-<div class="pub-item">
-  <div class="pub-number">[5]</div>
-  <div class="pub-body">
-    <div class="pub-title">Uncovering Strategic Egoism Behaviors in Large Language Models</div>
-    <div class="pub-authors">Y Zhang, A Liu, <span class="pub-me">Z Ying</span>, X Liu, J Liu, Y Xiao, Q Zhang</div>
-    <div class="pub-venue"><span class="pub-tag pub-tag-conference">ACL 2026 Findings</span></div>
-  </div>
-</div>
-
-<div class="pub-item">
-  <div class="pub-number">[6]</div>
-  <div class="pub-body">
-    <div class="pub-title">RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic</div>
-    <div class="pub-authors">L Wang, <span class="pub-me">Z Ying</span>, X Yang, Q Zou, Z Yin, T Li, J Yang, Y Yang, A Liu, X Liu</div>
-    <div class="pub-venue"><span class="pub-tag pub-tag-conference">ESR@ICLR 2026</span> <span class="pub-tag pub-tag-award">🏆 Outstanding Paper Award</span></div>
-  </div>
-</div>
-
-<div class="pub-item">
-  <div class="pub-number">[7]</div>
-  <div class="pub-body">
-    <div class="pub-title">Mask-GCG: Are All Tokens in Adversarial Suffixes Necessary for Jailbreak Attacks?</div>
-    <div class="pub-authors">J Mu, <span class="pub-me">Z Ying</span>, Z Fan, Z Jing, Y Zhang, Z Yu, W Zhang, Q Zou, X Zhang</div>
-    <div class="pub-venue"><span class="pub-tag pub-tag-conference">ICASSP 2026</span></div>
-  </div>
-</div>
-
-<div class="pub-item">
-  <div class="pub-number">[8]</div>
-  <div class="pub-body">
-    <div class="pub-title">Probabilistic Modeling of Jailbreak on Multimodal LLMs: From Quantification to Application</div>
-    <div class="pub-authors">W Xu, Z Wei, X Sun, <span class="pub-me">Z Ying</span>, D Zhang, D Yang, X Zhang, Q Zou</div>
-    <div class="pub-venue"><span class="pub-tag pub-tag-conference">ESORICS 2026</span></div>
-  </div>
-</div>
-
-<div class="pub-item">
-  <div class="pub-number">[9]</div>
-  <div class="pub-body">
-    <div class="pub-title">Robust Rumor Detection Against Noise</div>
-    <div class="pub-authors">W Zhang, X Xuan, R Han, <span class="pub-me">Z Ying</span>, C Luo, D Wu, L Kocarev</div>
-    <div class="pub-venue"><span class="pub-tag pub-tag-journal">Neurocomputing</span></div>
-  </div>
-</div>
-
-<div class="pub-item">
-  <div class="pub-number">[10]</div>
-  <div class="pub-body">
     <div class="pub-title">Reading Between the Pixels: An Inscriptive Jailbreak Attack on Text-to-Image Models</div>
     <div class="pub-authors"><span class="pub-me">Z Ying</span>, H Dai, L Hu, Z Jing, Q Zou, Y Yang, A Liu, X Liu</div>
     <div class="pub-venue"><span class="pub-tag pub-tag-conference">ACM MM 2026</span></div>
@@ -104,7 +23,7 @@ author_profile: true
 </div>
 
 <div class="pub-item">
-  <div class="pub-number">[11]</div>
+  <div class="pub-number">[2]</div>
   <div class="pub-body">
     <div class="pub-title">SafeGen: Goal-Conditioned Video Diffusion of Safety-Critical Scenarios for VLM-Based Autonomous Driving</div>
     <div class="pub-authors">J Liu, Z Cui, T Zhang, Z Jing, <span class="pub-me">Z Ying</span>, Y Zhang, J Wang, X Jiang, A Liu, X Liu</div>
@@ -113,11 +32,92 @@ author_profile: true
 </div>
 
 <div class="pub-item">
-  <div class="pub-number">[12]</div>
+  <div class="pub-number">[3]</div>
   <div class="pub-body">
     <div class="pub-title">DeltaUI: Framework-Normalized UI State Transition Modeling for Multi-Task Front-End Engineering</div>
     <div class="pub-authors">J Lin, Z Guan, H Zhang, <span class="pub-me">Z Ying</span>, Y Zhang, B Zeng, J Zhou, P Zhao, W Zhang</div>
     <div class="pub-venue"><span class="pub-tag pub-tag-conference">ACM MM 2026</span></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-number">[4]</div>
+  <div class="pub-body">
+    <div class="pub-title">SafeHarbor: Hierarchical Memory-Augmented Guardrail for LLM Agent Safety</div>
+    <div class="pub-authors">Z Liu, <span class="pub-me">Z Ying</span>, W Zhang, Q Zou, D Zhang, D Yang, X Zhang, H Peng</div>
+    <div class="pub-venue"><span class="pub-tag pub-tag-conference">ICML 2026</span></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-number">[5]</div>
+  <div class="pub-body">
+    <div class="pub-title">DMN: A Compositional Framework for Jailbreaking Multimodal LLMs with Multi-Image Inputs</div>
+    <div class="pub-authors">W Xu, Z Wei, <span class="pub-me">Z Ying</span>, D Zhang, D Yang, X Zhang, Q Zou</div>
+    <div class="pub-venue"><span class="pub-tag pub-tag-conference">ACL 2026</span></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-number">[6]</div>
+  <div class="pub-body">
+    <div class="pub-title">AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions</div>
+    <div class="pub-authors"><span class="pub-me">Z Ying</span>, L Wang, A Liu, J Mu, J Guo, J Wang, Y Ma, S Liang, M Zhang, ...</div>
+    <div class="pub-venue"><span class="pub-tag pub-tag-conference">CVPR 2026</span> <span class="pub-tag pub-tag-award">🏆 Outstanding Paper Award</span></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-number">[7]</div>
+  <div class="pub-body">
+    <div class="pub-title">SecureWebArena: A Holistic Security Evaluation Benchmark for LVLM-based Web Agents</div>
+    <div class="pub-authors"><span class="pub-me">Z Ying</span>, Y Shao, J Gan, G Xu, J Shen, W Zhang, Q Zou, J Shi, Z Yin, ...</div>
+    <div class="pub-venue"><span class="pub-tag pub-tag-conference">ACL 2026 Findings</span></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-number">[8]</div>
+  <div class="pub-body">
+    <div class="pub-title">Uncovering Strategic Egoism Behaviors in Large Language Models</div>
+    <div class="pub-authors">Y Zhang, A Liu, <span class="pub-me">Z Ying</span>, X Liu, J Liu, Y Xiao, Q Zhang</div>
+    <div class="pub-venue"><span class="pub-tag pub-tag-conference">ACL 2026 Findings</span></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-number">[9]</div>
+  <div class="pub-body">
+    <div class="pub-title">RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic</div>
+    <div class="pub-authors">L Wang, <span class="pub-me">Z Ying</span>, X Yang, Q Zou, Z Yin, T Li, J Yang, Y Yang, A Liu, X Liu</div>
+    <div class="pub-venue"><span class="pub-tag pub-tag-conference">ESR@ICLR 2026</span> <span class="pub-tag pub-tag-award">🏆 Outstanding Paper Award</span></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-number">[10]</div>
+  <div class="pub-body">
+    <div class="pub-title">Mask-GCG: Are All Tokens in Adversarial Suffixes Necessary for Jailbreak Attacks?</div>
+    <div class="pub-authors">J Mu, <span class="pub-me">Z Ying</span>, Z Fan, Z Jing, Y Zhang, Z Yu, W Zhang, Q Zou, X Zhang</div>
+    <div class="pub-venue"><span class="pub-tag pub-tag-conference">ICASSP 2026</span></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-number">[11]</div>
+  <div class="pub-body">
+    <div class="pub-title">Probabilistic Modeling of Jailbreak on Multimodal LLMs: From Quantification to Application</div>
+    <div class="pub-authors">W Xu, Z Wei, X Sun, <span class="pub-me">Z Ying</span>, D Zhang, D Yang, X Zhang, Q Zou</div>
+    <div class="pub-venue"><span class="pub-tag pub-tag-conference">ESORICS 2026</span></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-number">[12]</div>
+  <div class="pub-body">
+    <div class="pub-title">Robust Rumor Detection Against Noise</div>
+    <div class="pub-authors">W Zhang, X Xuan, R Han, <span class="pub-me">Z Ying</span>, C Luo, D Wu, L Kocarev</div>
+    <div class="pub-venue"><span class="pub-tag pub-tag-journal">Neurocomputing</span></div>
   </div>
 </div>
 
