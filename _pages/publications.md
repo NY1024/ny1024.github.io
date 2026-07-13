@@ -97,6 +97,33 @@ author_profile: true
 <div class="pub-item">
   <div class="pub-number">[10]</div>
   <div class="pub-body">
+    <div class="pub-title">Reading Between the Pixels: An Inscriptive Jailbreak Attack on Text-to-Image Models</div>
+    <div class="pub-authors"><span class="pub-me">Z Ying</span>, H Dai, L Hu, Z Jing, Q Zou, Y Yang, A Liu, X Liu</div>
+    <div class="pub-venue"><span class="pub-tag pub-tag-conference">ACM MM 2026</span></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-number">[11]</div>
+  <div class="pub-body">
+    <div class="pub-title">SafeGen: Goal-Conditioned Video Diffusion of Safety-Critical Scenarios for VLM-Based Autonomous Driving</div>
+    <div class="pub-authors">J Liu, Z Cui, T Zhang, Z Jing, <span class="pub-me">Z Ying</span>, Y Zhang, J Wang, X Jiang, A Liu, X Liu</div>
+    <div class="pub-venue"><span class="pub-tag pub-tag-conference">ACM MM 2026</span></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-number">[12]</div>
+  <div class="pub-body">
+    <div class="pub-title">DeltaUI: Framework-Normalized UI State Transition Modeling for Multi-Task Front-End Engineering</div>
+    <div class="pub-authors">J Lin, Z Guan, H Zhang, <span class="pub-me">Z Ying</span>, Y Zhang, B Zeng, J Zhou, P Zhao, W Zhang</div>
+    <div class="pub-venue"><span class="pub-tag pub-tag-conference">ACM MM 2026</span></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-number">[13]</div>
+  <div class="pub-body">
     <div class="pub-title">DIVER: Dynamic Iterative Visual Evidence Reasoning for Multimodal Fake News Detection</div>
     <div class="pub-authors">W Zhou, <span class="pub-me">Z Ying</span>, C Meng, J Liu, H Zhou, Q Zou, D Zhang, D Yang, ...</div>
     <div class="pub-venue"><span class="pub-tag pub-tag-preprint">arXiv:2601.07178</span></div>
@@ -104,7 +131,7 @@ author_profile: true
 </div>
 
 <div class="pub-item">
-  <div class="pub-number">[11]</div>
+  <div class="pub-number">[14]</div>
   <div class="pub-body">
     <div class="pub-title">Reasoning-Oriented Programming: Chaining Semantic Gadgets to Jailbreak Large Vision Language Models</div>
     <div class="pub-authors">Q Zou, M Chen, <span class="pub-me">Z Ying</span>, W Xu, Y Xiao, D Zhang, D Yang, Z Liu, X Zhang</div>
@@ -113,7 +140,7 @@ author_profile: true
 </div>
 
 <div class="pub-item">
-  <div class="pub-number">[12]</div>
+  <div class="pub-number">[15]</div>
   <div class="pub-body">
     <div class="pub-title">Uncovering Security Threats and Architecting Defenses in Autonomous Agents: A Case Study of OpenClaw</div>
     <div class="pub-authors"><span class="pub-me">Z Ying</span>, X Yang, S Wu, Y Song, Y Qu, H Li, T Li, J Wang, A Liu, X Liu</div>
@@ -122,7 +149,7 @@ author_profile: true
 </div>
 
 <div class="pub-item">
-  <div class="pub-number">[13]</div>
+  <div class="pub-number">[16]</div>
   <div class="pub-body">
     <div class="pub-title">Evolving Deception: When Agents Evolve, Deception Wins</div>
     <div class="pub-authors"><span class="pub-me">Z Ying</span>, H Dai, T Zhang, Y Xiao, Q Zou, A Liu, J Yang, Y Yang, X Liu</div>
@@ -131,7 +158,7 @@ author_profile: true
 </div>
 
 <div class="pub-item">
-  <div class="pub-number">[14]</div>
+  <div class="pub-number">[17]</div>
   <div class="pub-body">
     <div class="pub-title">AgentVisor: Defending LLM Agents Against Prompt Injection via Semantic Virtualization</div>
     <div class="pub-authors"><span class="pub-me">Z Ying</span>, H Wang, J Liu, Q Zou, A Liu, J Yang, Y Yang, X Liu</div>
@@ -140,16 +167,7 @@ author_profile: true
 </div>
 
 <div class="pub-item">
-  <div class="pub-number">[15]</div>
-  <div class="pub-body">
-    <div class="pub-title">Reading Between the Pixels: An Inscriptive Jailbreak Attack on Text-to-Image Models</div>
-    <div class="pub-authors"><span class="pub-me">Z Ying</span>, H Dai, L Hu, Z Jing, Q Zou, Y Yang, A Liu, X Liu</div>
-    <div class="pub-venue"><span class="pub-tag pub-tag-preprint">arXiv:2604.05853</span></div>
-  </div>
-</div>
-
-<div class="pub-item">
-  <div class="pub-number">[16]</div>
+  <div class="pub-number">[18]</div>
   <div class="pub-body">
     <div class="pub-title">GuardAD: Safeguarding Autonomous Driving MLLMs via Markovian Safety Logic</div>
     <div class="pub-authors">T Zhang, P Yue, Z Peng, J Liu, <span class="pub-me">Z Ying</span>, J Wang, T Li, J Yang, Y Yang, A Liu, ...</div>
@@ -158,7 +176,7 @@ author_profile: true
 </div>
 
 <div class="pub-item">
-  <div class="pub-number">[17]</div>
+  <div class="pub-number">[19]</div>
   <div class="pub-body">
     <div class="pub-title">TrajShield: Trajectory-Level Safety Mediation for Defending Text-to-Video Models Against Jailbreak Attacks</div>
     <div class="pub-authors">Q Zou, N Li, W Zhang, J Lin, Y Zeng, X Zhang, <span class="pub-me">Z Ying</span></div>
