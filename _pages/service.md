@@ -46,6 +46,7 @@ redirect_from:
       <li>Cybernetics and Systems</li>
       <li>Applied Artificial Intelligence</li>
       <li>IEEE Transactions on Artificial Intelligence</li>
+      <li>IEEE Transactions on Neural Networks and Learning Systems</li>
     </ul>
   </div>
 </div>
