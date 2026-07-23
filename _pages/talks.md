@@ -9,6 +9,15 @@ redirect_from:
 <div class="talks-list">
 
 <div class="talk-card">
+  <div class="talk-date">07/2026</div>
+  <div class="talk-body">
+    <div class="talk-title">智能体安全攻防与评测</div>
+    <div class="talk-venue">重庆 BDSC</div>
+    <div class="talk-links"><a href="https://mp.weixin.qq.com/s/u9cRZQbIrUiDNcwhKM86Nw">🔗 Link</a></div>
+  </div>
+</div>
+
+<div class="talk-card">
   <div class="talk-date">02/2025</div>
   <div class="talk-body">
     <div class="talk-title">Safety Risks in Large Generative Models: Challenges, Methods, and Emerging Solutions</div>
