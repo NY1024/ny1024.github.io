@@ -22,12 +22,14 @@ redirect_from:
       <li>CVPR (2025, 2026)</li>
       <li>ACL (2025, 2026)</li>
       <li>WACV (2025)</li>
-      <li>AAAI (2025, 2026)</li>
+      <li>AAAI (2025, 2026, 2027)</li>
       <li>CHI (2025, 2026)</li>
       <li>COLING (2025)</li>
       <li>IUI (2025, 2026)</li>
       <li>ICWSM (2024, 2025, 2026)</li>
       <li>ICASSP (2026)</li>
+      <li>IJCAI (2025)</li>
+      <li>WWW (2026)</li>
     </ul>
   </div>
 
@@ -47,17 +49,6 @@ redirect_from:
       <li>Applied Artificial Intelligence</li>
       <li>IEEE Transactions on Artificial Intelligence</li>
       <li>IEEE Transactions on Neural Networks and Learning Systems</li>
-    </ul>
-  </div>
-</div>
-
-## Program Committee
-<div class="service-grid">
-  <div class="service-card">
-    <h3 class="service-card-title">🎤 Conferences</h3>
-    <ul class="service-list">
-      <li>IJCAI (2025)</li>
-      <li>WWW (2026)</li>
     </ul>
   </div>
 </div>
