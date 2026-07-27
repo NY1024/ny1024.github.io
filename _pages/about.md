@@ -35,6 +35,16 @@ Prior to BUAA, I obtained my M.Sc. from the School of Cyber Security, University
 </div>
 
 ## News and Updates
+
+<div class="honor-banner">
+  <h3 class="honor-banner-title">🏅 Honors &amp; Awards</h3>
+  <ul class="honor-banner-list">
+    <li><span class="news-badge">New</span> Supported by CIE-Tencent Doctoral Research Incentive Project (混元学者/中国电子学会—腾讯博士生科研激励计划).</li>
+    <li><span class="news-badge">New</span> Selected for the Tencent PROJECT UP Talent Program (腾讯青云计划).</li>
+    <li><span class="news-badge">New</span> Selected for the 2026 Tencent Rhino-Bird Research Elite Program (犀牛鸟精英人才计划).</li>
+  </ul>
+</div>
+
 <div class="news-grid">
 
 <div class="news-column">
