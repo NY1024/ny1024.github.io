@@ -45,6 +45,7 @@ Prior to BUAA, I obtained my M.Sc. from the School of Cyber Security, University
 <div class="news-column">
 <h3 class="news-column-title">📄 Papers</h3>
 <ul class="news-list">
+  <li>08/2026 Two papers (one first-author, one co-author) accepted by <strong>EMNLP 2026</strong>.</li>
   <li>08/2026 One co-author paper accepted by <strong>CIKM 2026</strong>.</li>
   <li>07/2026 One co-author paper accepted by <strong>Applied Soft Computing</strong>.</li>
   <li>07/2026 Three papers (one first-author, two co-author) accepted by <strong>ACM MM 2026</strong>.</li>
