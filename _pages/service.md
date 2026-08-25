@@ -50,6 +50,7 @@ redirect_from:
       <li>Applied Artificial Intelligence</li>
       <li>IEEE Transactions on Artificial Intelligence</li>
       <li>IEEE Transactions on Neural Networks and Learning Systems</li>
+      <li>Knowledge-Based Systems</li>
     </ul>
   </div>
 </div>
