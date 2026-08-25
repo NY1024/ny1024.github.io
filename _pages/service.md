@@ -25,6 +25,7 @@ redirect_from:
       <li>AAAI (2025, 2026, 2027)</li>
       <li>CHI (2025, 2026)</li>
       <li>COLING (2025)</li>
+      <li>EACL (2026)</li>
       <li>IUI (2025, 2026)</li>
       <li>ICWSM (2024, 2025, 2026)</li>
       <li>ICASSP (2026)</li>
