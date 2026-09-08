@@ -45,27 +45,27 @@ Prior to BUAA, I obtained my M.Sc. from the School of Cyber Security, University
 <div class="news-column">
 <h3 class="news-column-title">📄 Papers</h3>
 <ul class="news-list">
-  <li>09/2026 One corresponding-author paper accepted by <strong>IEEE TIFS</strong>.</li>
-  <li>08/2026 Two papers (one first-author, one co-author) accepted by <strong>EMNLP 2026</strong>.</li>
-  <li>08/2026 One co-author paper accepted by <strong>CIKM 2026</strong>.</li>
-  <li>07/2026 One co-author paper accepted by <strong>Applied Soft Computing</strong>.</li>
-  <li>07/2026 Three papers (one first-author, two co-author) accepted by <strong>ACM MM 2026</strong>.</li>
-  <li>06/2026 One co-author paper accepted by <strong>ESORICS 2026</strong>.</li>
+  <li>09/2026 One paper accepted by <strong>IEEE TIFS</strong>.</li>
+  <li>08/2026 Two papers accepted by <strong>EMNLP 2026</strong>.</li>
+  <li>08/2026 One paper accepted by <strong>CIKM 2026</strong>.</li>
+  <li>07/2026 One paper accepted by <strong>Applied Soft Computing</strong>.</li>
+  <li>07/2026 Three papers accepted by <strong>ACM MM 2026</strong>.</li>
+  <li>06/2026 One paper accepted by <strong>ESORICS 2026</strong>.</li>
   <li>05/2026 Our paper <em>RoboSafe</em> is awarded the <strong>Outstanding Paper Award</strong> in ESR@ICLR 2026.</li>
-  <li>05/2026 One first-author paper accepted by <strong>ICML 2026</strong>.</li>
-  <li>04/2026 A first-author paper and two co-author papers have been accepted by <strong>ACL 2026</strong>.</li>
-  <li>02/2026 One first-author paper accepted by <strong>CVPR 2026</strong>.</li>
-  <li>01/2026 One first-author paper accepted by <strong>ICASSP 2026</strong>.</li>
-  <li>01/2026 One co-author paper accepted by <strong>Neurocomputing</strong>.</li>
-  <li>01/2026 One co-author paper accepted by <strong>Transactions on Dependable and Secure Computing</strong>.</li>
-  <li>11/2025 One corresponding-author paper accepted by <strong>PersonaNLP@NeurIPS 2025</strong>.</li>
-  <li>11/2025 One first-author paper accepted by <strong>International Journal of Computer Vision</strong>.</li>
-  <li>08/2025 One co-author paper accepted by <strong>NeurIPS 2025</strong>.</li>
-  <li>08/2025 One first-author paper accepted by <strong>EMNLP 2025</strong>.</li>
+  <li>05/2026 One paper accepted by <strong>ICML 2026</strong>.</li>
+  <li>04/2026 Three papers accepted by <strong>ACL 2026</strong>.</li>
+  <li>02/2026 One paper accepted by <strong>CVPR 2026</strong>.</li>
+  <li>01/2026 One paper accepted by <strong>ICASSP 2026</strong>.</li>
+  <li>01/2026 One paper accepted by <strong>Neurocomputing</strong>.</li>
+  <li>01/2026 One paper accepted by <strong>Transactions on Dependable and Secure Computing</strong>.</li>
+  <li>11/2025 One paper accepted by <strong>PersonaNLP@NeurIPS 2025</strong>.</li>
+  <li>11/2025 One paper accepted by <strong>International Journal of Computer Vision</strong>.</li>
+  <li>08/2025 One paper accepted by <strong>NeurIPS 2025</strong>.</li>
+  <li>08/2025 One paper accepted by <strong>EMNLP 2025</strong>.</li>
   <li>07/2025 Our paper <em>AgentSafe</em> is awarded the <strong>Outstanding Paper Award</strong> in MAS@ICML 2025.</li>
-  <li>07/2025 One first-author paper accepted by <strong>ACM MM 2025</strong>.</li>
-  <li>06/2025 Two first-author papers accepted by <strong>IEEE TIFS</strong> and <strong>MAS@ICML 2025</strong>.</li>
-  <li>06/2025 One co-author paper accepted by <strong>Electronics</strong>.</li>
+  <li>07/2025 One paper accepted by <strong>ACM MM 2025</strong>.</li>
+  <li>06/2025 Two papers accepted by <strong>IEEE TIFS</strong> and <strong>MAS@ICML 2025</strong>.</li>
+  <li>06/2025 One paper accepted by <strong>Electronics</strong>.</li>
 </ul>
 </div>
 
