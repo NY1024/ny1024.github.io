@@ -19,7 +19,7 @@ Prior to BUAA, I obtained my M.Sc. from the School of Cyber Security, University
 </ul>
 
 <div class="announcement-box">
-  <strong>Announcement:</strong> If you are seeking any form of academic cooperation, please feel free to contact me.
+<strong>Announcement:</strong> If you are seeking any form of academic or professional cooperation, or just want to chat about ideas, please feel free to contact me.
 </div>
 
 ## Contact
