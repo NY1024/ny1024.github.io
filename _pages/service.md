@@ -18,7 +18,7 @@ redirect_from:
       <li>COLM (2025, 2026)</li>
       <li>ACM MM (2024, 2025, 2026)</li>
       <li>EMNLP (2024, 2025)</li>
-      <li>AISTATS (2025, 2026)</li>
+      <li>AISTATS (2025, 2026, 2027)</li>
       <li>CVPR (2025, 2026)</li>
       <li>ACL (2025, 2026)</li>
       <li>WACV (2025)</li>
@@ -41,6 +41,7 @@ redirect_from:
       <li>The Computer Journal</li>
       <li>Transactions on Pattern Analysis and Machine Intelligence</li>
       <li>IEEE Transactions on Dependable and Secure Computing</li>
+      <li>ACM Transactions on Privacy and Security</li>
       <li>IEEE Transactions on Information Forensics and Security</li>
       <li>IEEE Transactions on Multimedia</li>
       <li>Empirical Software Engineering</li>
