@@ -34,7 +34,7 @@ Prior to BUAA, I obtained my M.Sc. from the School of Cyber Security, University
 <div class="honor-banner">
   <h3 class="honor-banner-title">🏅 Honors &amp; Awards</h3>
   <ul class="honor-banner-list">
-    <li><span class="news-badge">New</span> 10/2026 DAAD AINet Fellowship.</li>
+    <li><span class="news-badge">New</span> 10/2026 DAAD AINet Fellow.</li>
     <li><span class="news-badge">New</span> 10/2026 National Scholarship.</li>
     <li><span class="news-badge">New</span> 07/2026 Supported by CIE-Tencent Doctoral Research Incentive Project (混元学者/中国电子学会—腾讯博士生科研激励计划).</li>
     <li><span class="news-badge">New</span> 06/2026 Supported by Doctoral Student Excellence Research Fund (博士生卓越学术基金).</li>
