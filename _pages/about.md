@@ -50,6 +50,7 @@ Prior to BUAA, I obtained my M.Sc. from the School of Cyber Security, University
 <div class="news-column">
 <h3 class="news-column-title">📄 Papers</h3>
 <ul class="news-list">
+<li>11/2026 One paper accepted by <strong>Pattern Recognition</strong>.</li>
 <li>09/2026 One paper accepted by <strong>NeurIPS 2026</strong>.</li>
   <li>09/2026 One paper accepted by <strong>TMLR</strong>.</li>
   <li>09/2026 One paper accepted by <strong>IEEE TIFS</strong>.</li>
