@@ -44,8 +44,9 @@ redirect_from:
       <li>ACM Transactions on Privacy and Security</li>
       <li>IEEE Transactions on Information Forensics and Security</li>
       <li>IEEE Transactions on Multimedia</li>
-      <li>Transactions on Multimedia Computing Communications and Applications</li>
       <li>IEEE Transactions on Fuzzy Systems</li>
+      <li>Transactions on Multimedia Computing Communications and Applications</li>
+      <li>IEEE Transactions on Automation Science and Engineering</li>
       <li>Empirical Software Engineering</li>
       <li>CyberSecurity</li>
       <li>International Journal of Human-Computer Interaction</li>
