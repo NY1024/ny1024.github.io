@@ -37,8 +37,11 @@ Prior to BUAA, I obtained my M.Sc. from the School of Cyber Security, University
 <div class="honor-banner">
   <h3 class="honor-banner-title">🏅 Honors &amp; Awards</h3>
   <ul class="honor-banner-list">
-    <li><span class="news-badge">New</span> 11/2026 Xiaomi [Top Talent Program Offer](https://hr.xiaomi.com/toptalent).</li>
-    <li><span class="news-badge">New</span> 11/2026 Huawei [TopMinds Program Offer](https://career.huawei.com/cn/young-genius).</li>
+    <li>
+    <span class="news-badge">New</span> 11/2026 Xiaomi
+    <a href="https://hr.xiaomi.com/toptalent" target="_blank">Top Talent Program Offer</a>.
+</li>
+    <li><span class="news-badge">New</span> 11/2026 Huawei <a href="https://career.huawei.com/cn/young-genius" target="_blank">TopMinds Program Offer</a>.</li>
     <li><span class="news-badge">New</span> 10/2026 Selected as a DAAD AINeT Fellow.</li>
     <li><span class="news-badge">New</span> 10/2026 Awarded the National Scholarship by the Ministry of Education of China.</li>
     <li><span class="news-badge">New</span> 10/2026 Selected for the CAST Young Elite Scientists Sponsorship Program for Doctoral Students (中国科协青年科技人才培育工程博士生专项计划).</li>
