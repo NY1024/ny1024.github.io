@@ -18,9 +18,12 @@ Prior to BUAA, I obtained my M.Sc. from the School of Cyber Security, University
   <li><strong>Cyberspace Security</strong><br>Software security, Network security, IoT security and etc.</li>
 </ul>
 
+
+
 <div class="announcement-box">
-<strong>Announcement:</strong> If you are seeking any form of academic or professional cooperation, or just want to chat about ideas, please feel free to contact me.
+<strong>Announcement:</strong> Expected to graduate in June 2027 and currently on the job market, with an interest in exploring opportunities in both academia and industry. Inquiries about suitable openings and potential collaborations are warmly welcome!
 </div>
+
 
 ## Contact
 <div class="contact-card">
@@ -34,6 +37,8 @@ Prior to BUAA, I obtained my M.Sc. from the School of Cyber Security, University
 <div class="honor-banner">
   <h3 class="honor-banner-title">🏅 Honors &amp; Awards</h3>
   <ul class="honor-banner-list">
+    <li><span class="news-badge">New</span> 11/2026 Xiaomi [Top Talent Program Offer](https://hr.xiaomi.com/toptalent).</li>
+    <li><span class="news-badge">New</span> 11/2026 Huawei [TopMinds Program Offer](https://career.huawei.com/cn/young-genius).</li>
     <li><span class="news-badge">New</span> 10/2026 Selected as a DAAD AINeT Fellow.</li>
     <li><span class="news-badge">New</span> 10/2026 Awarded the National Scholarship by the Ministry of Education of China.</li>
     <li><span class="news-badge">New</span> 10/2026 Selected for the CAST Young Elite Scientists Sponsorship Program for Doctoral Students (中国科协青年科技人才培育工程博士生专项计划).</li>
