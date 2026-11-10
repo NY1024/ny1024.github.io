@@ -37,6 +37,7 @@ Prior to BUAA, I obtained my M.Sc. from the School of Cyber Security, University
 <div class="honor-banner">
   <h3 class="honor-banner-title">🏅 Honors &amp; Awards</h3>
   <ul class="honor-banner-list">
+    <li><span class="news-badge">New</span> 11/2026 Tencent <a href="https://join.qq.com/qingyun.html" target="_blank">Project Up Program Offer</a>.</li>
     <li>
     <span class="news-badge">New</span> 11/2026 Xiaomi
     <a href="https://hr.xiaomi.com/toptalent" target="_blank">Top Talent Program Offer</a>.
