@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at State Key Laboratory of Complex and Critical Software Environment at the Beihang University (BUAA), advised by Prof. <a href="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en" target="_blank">Dacheng Tao</a> and Prof. <a href="https://xlliu-beihang.github.io/" target="_blank">Xianglong Liu</a>. I also work closely with Prof. <a href="https://liuaishan.github.io/" target="_blank">Aishan Liu</a>.
+I am a Ph.D. student working on trustworthy AI and cybersecurity, with a particular focus on the security of large language models, AI agents, and emerging intelligent systems. My research interests span attack discovery, security evaluation, and defense mechanisms for foundation models and autonomous agents.
 
-Prior to BUAA, I obtained my M.Sc. from the School of Cyber Security, University of Chinese Academy of Sciences. I also served as a research assistant at the State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences. Before that, I had internship experience at SIP Lab@Sangfor and Security Research Labs@Qihoo 360. I serve as a reviewer for top-tier conferences and journals, including TPAMI, NeurIPS, ICML, ICLR, TIFS, TDSC, CVPR, ACL, AISTATS, COLING, ECCV, and EMNLP.
+I serve as a reviewer for leading conferences and journals, including TPAMI, NeurIPS, ICML, ICLR, TIFS, TDSC, CVPR, ACL, AISTATS, COLING, ECCV, and EMNLP.
 
 ## Research Interests
 <ul class="research-interests">
