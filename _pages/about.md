@@ -25,11 +25,6 @@ I serve as a reviewer for leading conferences and journals, including TPAMI, Neu
 </div>
 
 
-## Contact
-<div class="contact-card">
-  <p><strong>Email:</strong> yingzonghao20[AT]mails[DOT]ucas[DOT]edu[DOT]cn, yingzonghao[AT]buaa[DOT]edu[DOT]cn</p>
-  <p><strong>Address:</strong> No.37 Xueyuan Road, Beijing, China</p>
-</div>
 
 ## News and Updates
 
